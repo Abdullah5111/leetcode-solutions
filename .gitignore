@@ -5,3 +5,6 @@ venv/
 .DS_Store
 .idea/
 .vscode/
+
+# Local-only project context (not for public repo)
+CLAUDE.md
