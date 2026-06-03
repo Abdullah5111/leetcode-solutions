@@ -10,6 +10,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 |---|---------|------------|------|
 | 1 | Two Sum | Easy | [0001_two_sum.py](./0001_two_sum.py) |
 | 9 | Palindrome Number | Easy | [0009_palindrome_number.py](./0009_palindrome_number.py) |
+| 13 | Roman to Integer | Easy | [0013_roman_to_integer.py](./0013_roman_to_integer.py) |
 
 ## Run
 
