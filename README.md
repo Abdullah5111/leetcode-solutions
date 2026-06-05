@@ -13,6 +13,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 13 | Roman to Integer | Easy | [0013_roman_to_integer.py](./0013_roman_to_integer.py) |
 | 14 | Longest Common Prefix | Easy | [0014_longest_common_prefix.py](./0014_longest_common_prefix.py) |
 | 20 | Valid Parentheses | Easy | [0020_valid_parentheses.py](./0020_valid_parentheses.py) |
+| 21 | Merge Two Sorted Lists | Easy | [0021_merge_two_sorted_lists.py](./0021_merge_two_sorted_lists.py) |
 
 ## Run
 
