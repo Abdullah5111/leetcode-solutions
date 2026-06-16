@@ -17,6 +17,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 26 | Remove Duplicates from Sorted Array | Easy | [0026_remove_duplicates_from_sorted_array.py](./0026_remove_duplicates_from_sorted_array.py) |
 | 70 | Climbing Stairs | Easy | [0070_climbing_stairs.py](./0070_climbing_stairs.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [0121_best_time_to_buy_and_sell_stock.py](./0121_best_time_to_buy_and_sell_stock.py) |
+| 125 | Valid Palindrome | Easy | [0125_valid_palindrome.py](./0125_valid_palindrome.py) |
 | 217 | Contains Duplicate | Easy | [0217_contains_duplicate.py](./0217_contains_duplicate.py) |
 | 242 | Valid Anagram | Easy | [0242_valid_anagram.py](./0242_valid_anagram.py) |
 
