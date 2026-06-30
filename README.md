@@ -26,6 +26,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | [2894_divisible_and_non_divisible_sums_difference.py](./2894_divisible_and_non_divisible_sums_difference.py) |
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy | [3190_minimum_operations_to_make_elements_divisible_by_three.py](./3190_minimum_operations_to_make_elements_divisible_by_three.py) |
 | 3895 | Count Digit Occurrences | Easy | [3895_count_digit_occurrences.py](./3895_count_digit_occurrences.py) |
+| 3925 | Concatenation with Reversal | Easy | [3925_concatenation_with_reversal.py](./3925_concatenation_with_reversal.py) |
 
 ## Run
 
