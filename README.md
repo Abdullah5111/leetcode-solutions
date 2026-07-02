@@ -17,6 +17,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 26 | Remove Duplicates from Sorted Array | Easy | [0026_remove_duplicates_from_sorted_array.py](./0026_remove_duplicates_from_sorted_array.py) |
 | 27 | Remove Element | Easy | [0027_remove_element.py](./0027_remove_element.py) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | [0028_find_the_index_of_the_first_occurrence_in_a_string.py](./0028_find_the_index_of_the_first_occurrence_in_a_string.py) |
+| 35 | Search Insert Position | Easy | [0035_search_insert_position.py](./0035_search_insert_position.py) |
 | 70 | Climbing Stairs | Easy | [0070_climbing_stairs.py](./0070_climbing_stairs.py) |
 | 88 | Merge Sorted Array | Easy | [0088_merge_sorted_array.py](./0088_merge_sorted_array.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [0121_best_time_to_buy_and_sell_stock.py](./0121_best_time_to_buy_and_sell_stock.py) |
