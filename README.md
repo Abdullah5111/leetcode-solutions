@@ -33,6 +33,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 1480 | Running Sum of 1d Array | Easy | [1480_running_sum_of_1d_array.py](./1480_running_sum_of_1d_array.py) |
 | 1512 | Number of Good Pairs | Easy | [1512_number_of_good_pairs.py](./1512_number_of_good_pairs.py) |
 | 1929 | Concatenation of Array | Easy | [1929_concatenation_of_array.py](./1929_concatenation_of_array.py) |
+| 2011 | Final Value of Variable After Performing Operations | Easy | [2011_final_value_of_variable_after_operations.py](./2011_final_value_of_variable_after_operations.py) |
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | [2894_divisible_and_non_divisible_sums_difference.py](./2894_divisible_and_non_divisible_sums_difference.py) |
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy | [3190_minimum_operations_to_make_elements_divisible_by_three.py](./3190_minimum_operations_to_make_elements_divisible_by_three.py) |
 | 3895 | Count Digit Occurrences | Easy | [3895_count_digit_occurrences.py](./3895_count_digit_occurrences.py) |
