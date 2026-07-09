@@ -28,6 +28,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 217 | Contains Duplicate | Easy | [0217_contains_duplicate.py](./0217_contains_duplicate.py) |
 | 242 | Valid Anagram | Easy | [0242_valid_anagram.py](./0242_valid_anagram.py) |
 | 268 | Missing Number | Easy | [0268_missing_number.py](./0268_missing_number.py) |
+| 771 | Jewels and Stones | Easy | [0771_jewels_and_stones.py](./0771_jewels_and_stones.py) |
 | 807 | Max Increase to Keep City Skyline | Medium | [0807_max_increase_keeping_skyline.py](./0807_max_increase_keeping_skyline.py) |
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | [2894_divisible_and_non_divisible_sums_difference.py](./2894_divisible_and_non_divisible_sums_difference.py) |
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy | [3190_minimum_operations_to_make_elements_divisible_by_three.py](./3190_minimum_operations_to_make_elements_divisible_by_three.py) |
