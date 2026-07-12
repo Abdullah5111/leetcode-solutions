@@ -30,6 +30,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 268 | Missing Number | Easy | [0268_missing_number.py](./0268_missing_number.py) |
 | 771 | Jewels and Stones | Easy | [0771_jewels_and_stones.py](./0771_jewels_and_stones.py) |
 | 807 | Max Increase to Keep City Skyline | Medium | [0807_max_increase_keeping_skyline.py](./0807_max_increase_keeping_skyline.py) |
+| 1108 | Defanging an IP Address | Easy | [1108_defanging_an_ip_address.py](./1108_defanging_an_ip_address.py) |
 | 1480 | Running Sum of 1d Array | Easy | [1480_running_sum_of_1d_array.py](./1480_running_sum_of_1d_array.py) |
 | 1512 | Number of Good Pairs | Easy | [1512_number_of_good_pairs.py](./1512_number_of_good_pairs.py) |
 | 1929 | Concatenation of Array | Easy | [1929_concatenation_of_array.py](./1929_concatenation_of_array.py) |
