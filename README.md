@@ -37,6 +37,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 1480 | Running Sum of 1d Array | Easy | [1480_running_sum_of_1d_array.py](./1480_running_sum_of_1d_array.py) |
 | 1512 | Number of Good Pairs | Easy | [1512_number_of_good_pairs.py](./1512_number_of_good_pairs.py) |
 | 1672 | Richest Customer Wealth | Easy | [1672_richest_customer_wealth.py](./1672_richest_customer_wealth.py) |
+| 1720 | Decode XORed Array | Easy | [1720_decode_xored_array.py](./1720_decode_xored_array.py) |
 | 1929 | Concatenation of Array | Easy | [1929_concatenation_of_array.py](./1929_concatenation_of_array.py) |
 | 2011 | Final Value of Variable After Performing Operations | Easy | [2011_final_value_of_variable_after_operations.py](./2011_final_value_of_variable_after_operations.py) |
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | [2894_divisible_and_non_divisible_sums_difference.py](./2894_divisible_and_non_divisible_sums_difference.py) |
