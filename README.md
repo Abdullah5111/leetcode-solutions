@@ -47,6 +47,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | [2894_divisible_and_non_divisible_sums_difference.py](./2894_divisible_and_non_divisible_sums_difference.py) |
 | 3168 | Minimum Number of Chairs in a Waiting Room | Easy | [3168_minimum_number_of_chairs_in_a_waiting_room.py](./3168_minimum_number_of_chairs_in_a_waiting_room.py) |
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy | [3190_minimum_operations_to_make_elements_divisible_by_three.py](./3190_minimum_operations_to_make_elements_divisible_by_three.py) |
+| 3516 | Find Closest Person | Easy | [3516_find_closest_person.py](./3516_find_closest_person.py) |
 | 3895 | Count Digit Occurrences | Easy | [3895_count_digit_occurrences.py](./3895_count_digit_occurrences.py) |
 | 3925 | Concatenation with Reversal | Easy | [3925_concatenation_with_reversal.py](./3925_concatenation_with_reversal.py) |
 
