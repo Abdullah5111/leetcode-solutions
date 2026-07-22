@@ -39,6 +39,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 1512 | Number of Good Pairs | Easy | [1512_number_of_good_pairs.py](./1512_number_of_good_pairs.py) |
 | 1672 | Richest Customer Wealth | Easy | [1672_richest_customer_wealth.py](./1672_richest_customer_wealth.py) |
 | 1720 | Decode XORed Array | Easy | [1720_decode_xored_array.py](./1720_decode_xored_array.py) |
+| 1822 | Sign of the Product of an Array | Easy | [1822_sign_of_the_product_of_an_array.py](./1822_sign_of_the_product_of_an_array.py) |
 | 1929 | Concatenation of Array | Easy | [1929_concatenation_of_array.py](./1929_concatenation_of_array.py) |
 | 1957 | Delete Characters to Make Fancy String | Easy | [1957_delete_characters_to_make_fancy_string.py](./1957_delete_characters_to_make_fancy_string.py) |
 | 2011 | Final Value of Variable After Performing Operations | Easy | [2011_final_value_of_variable_after_operations.py](./2011_final_value_of_variable_after_operations.py) |
