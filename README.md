@@ -49,6 +49,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 2264 | Largest 3-Same-Digit Number in String | Easy | [2264_largest_3_same_digit_number_in_string.py](./2264_largest_3_same_digit_number_in_string.py) |
 | 2798 | Number of Employees Who Met the Target | Easy | [2798_number_of_employees_who_met_the_target.py](./2798_number_of_employees_who_met_the_target.py) |
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | [2894_divisible_and_non_divisible_sums_difference.py](./2894_divisible_and_non_divisible_sums_difference.py) |
+| 3131 | Find the Integer Added to Array I | Easy | [3131_find_the_integer_added_to_array_i.py](./3131_find_the_integer_added_to_array_i.py) |
 | 3168 | Minimum Number of Chairs in a Waiting Room | Easy | [3168_minimum_number_of_chairs_in_a_waiting_room.py](./3168_minimum_number_of_chairs_in_a_waiting_room.py) |
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy | [3190_minimum_operations_to_make_elements_divisible_by_three.py](./3190_minimum_operations_to_make_elements_divisible_by_three.py) |
 | 3516 | Find Closest Person | Easy | [3516_find_closest_person.py](./3516_find_closest_person.py) |
