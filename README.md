@@ -42,6 +42,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 1822 | Sign of the Product of an Array | Easy | [1822_sign_of_the_product_of_an_array.py](./1822_sign_of_the_product_of_an_array.py) |
 | 1929 | Concatenation of Array | Easy | [1929_concatenation_of_array.py](./1929_concatenation_of_array.py) |
 | 1957 | Delete Characters to Make Fancy String | Easy | [1957_delete_characters_to_make_fancy_string.py](./1957_delete_characters_to_make_fancy_string.py) |
+| 1967 | Number of Strings That Appear as Substrings in Word | Easy | [1967_number_of_strings_that_appear_as_substrings_in_word.py](./1967_number_of_strings_that_appear_as_substrings_in_word.py) |
 | 2011 | Final Value of Variable After Performing Operations | Easy | [2011_final_value_of_variable_after_operations.py](./2011_final_value_of_variable_after_operations.py) |
 | 2169 | Count Operations to Obtain Zero | Easy | [2169_count_operations_to_obtain_zero.py](./2169_count_operations_to_obtain_zero.py) |
 | 2264 | Largest 3-Same-Digit Number in String | Easy | [2264_largest_3_same_digit_number_in_string.py](./2264_largest_3_same_digit_number_in_string.py) |
