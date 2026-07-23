@@ -53,6 +53,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 3131 | Find the Integer Added to Array I | Easy | [3131_find_the_integer_added_to_array_i.py](./3131_find_the_integer_added_to_array_i.py) |
 | 3168 | Minimum Number of Chairs in a Waiting Room | Easy | [3168_minimum_number_of_chairs_in_a_waiting_room.py](./3168_minimum_number_of_chairs_in_a_waiting_room.py) |
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy | [3190_minimum_operations_to_make_elements_divisible_by_three.py](./3190_minimum_operations_to_make_elements_divisible_by_three.py) |
+| 3289 | The Two Sneaky Numbers of Digitville | Easy | [3289_the_two_sneaky_numbers_of_digitville.py](./3289_the_two_sneaky_numbers_of_digitville.py) |
 | 3516 | Find Closest Person | Easy | [3516_find_closest_person.py](./3516_find_closest_person.py) |
 | 3783 | Mirror Distance of an Integer | Easy | [3783_mirror_distance_of_an_integer.py](./3783_mirror_distance_of_an_integer.py) |
 | 3895 | Count Digit Occurrences | Easy | [3895_count_digit_occurrences.py](./3895_count_digit_occurrences.py) |
