@@ -47,6 +47,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 2169 | Count Operations to Obtain Zero | Easy | [2169_count_operations_to_obtain_zero.py](./2169_count_operations_to_obtain_zero.py) |
 | 2176 | Count Equal and Divisible Pairs in an Array | Easy | [2176_count_equal_and_divisible_pairs_in_an_array.py](./2176_count_equal_and_divisible_pairs_in_an_array.py) |
 | 2264 | Largest 3-Same-Digit Number in String | Easy | [2264_largest_3_same_digit_number_in_string.py](./2264_largest_3_same_digit_number_in_string.py) |
+| 2660 | Determine the Winner of a Bowling Game | Easy | [2660_determine_the_winner_of_a_bowling_game.py](./2660_determine_the_winner_of_a_bowling_game.py) |
 | 2798 | Number of Employees Who Met the Target | Easy | [2798_number_of_employees_who_met_the_target.py](./2798_number_of_employees_who_met_the_target.py) |
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | [2894_divisible_and_non_divisible_sums_difference.py](./2894_divisible_and_non_divisible_sums_difference.py) |
 | 3131 | Find the Integer Added to Array I | Easy | [3131_find_the_integer_added_to_array_i.py](./3131_find_the_integer_added_to_array_i.py) |
