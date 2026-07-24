@@ -56,6 +56,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy | [3190_minimum_operations_to_make_elements_divisible_by_three.py](./3190_minimum_operations_to_make_elements_divisible_by_three.py) |
 | 3289 | The Two Sneaky Numbers of Digitville | Easy | [3289_the_two_sneaky_numbers_of_digitville.py](./3289_the_two_sneaky_numbers_of_digitville.py) |
 | 3516 | Find Closest Person | Easy | [3516_find_closest_person.py](./3516_find_closest_person.py) |
+| 3760 | Maximum Substrings With Distinct Start | Medium | [3760_maximum_substrings_with_distinct_start.py](./3760_maximum_substrings_with_distinct_start.py) |
 | 3783 | Mirror Distance of an Integer | Easy | [3783_mirror_distance_of_an_integer.py](./3783_mirror_distance_of_an_integer.py) |
 | 3895 | Count Digit Occurrences | Easy | [3895_count_digit_occurrences.py](./3895_count_digit_occurrences.py) |
 | 3925 | Concatenation with Reversal | Easy | [3925_concatenation_with_reversal.py](./3925_concatenation_with_reversal.py) |
