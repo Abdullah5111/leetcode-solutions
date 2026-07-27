@@ -1,13 +1,16 @@
 """
 2894. Divisible and Non-divisible Sums Difference  (Easy)
 
-Time:  O(n)
+Time:  O(1)
 Space: O(1)
 """
 
 class Solution:
     def differenceOfSums(self, n: int, m: int) -> int:
-        return sum(-x if x % m == 0 else x for x in range(1, n + 1))
+        total = n * (n + 1) // 2
+        k = n // m
+        divisible = m * k * (k + 1) // 2
+        return total - 2 * divisible
 
 
 if __name__ == "__main__":
