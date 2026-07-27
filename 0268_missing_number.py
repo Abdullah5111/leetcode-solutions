@@ -1,13 +1,6 @@
 """
 268. Missing Number  (Easy)
 
-Given an array nums containing n distinct numbers drawn from the range [0, n],
-exactly one number in that range is missing. Return it.
-
-Approach (sum formula): the numbers 0..n add up to a known total,
-n * (n + 1) / 2. Subtracting the actual sum of the array leaves exactly the one
-value that was left out. Simple and intuitive, with no extra space.
-
 Time:  O(n)
 Space: O(1)
 """

@@ -1,18 +1,10 @@
 """
 2. Add Two Numbers  (Medium)
 
-Two non-empty linked lists represent two non-negative integers, one digit per
-node, stored in reverse order (ones digit first). Add them and return the sum
-as a linked list in the same reverse-order form.
-
-Approach: walk both lists together like grade-school addition. At each step sum
-the two current digits plus the carry, push (sum % 10) as a new node, and keep
-(sum // 10) as the next carry. Continue while either list has nodes left or a
-carry remains — so a final carry (e.g. 5 + 5 -> 0 -> 1) adds a leading node.
-
 Time:  O(max(m, n))
 Space: O(max(m, n))   for the output list
 """
+
 from typing import Optional
 
 
@@ -64,11 +56,8 @@ def _to_list(head):
 
 if __name__ == "__main__":
     add = Solution().addTwoNumbers
-    # 342 + 465 = 807
     assert _to_list(add(_build([2, 4, 3]), _build([5, 6, 4]))) == [7, 0, 8]
-    # 0 + 0 = 0
     assert _to_list(add(_build([0]), _build([0]))) == [0]
-    # 9999999 + 9999 = 10009998 (carry propagates, longer than both inputs)
     assert _to_list(
         add(_build([9, 9, 9, 9, 9, 9, 9]), _build([9, 9, 9, 9]))
     ) == [8, 9, 9, 9, 0, 0, 0, 1]

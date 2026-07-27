@@ -1,17 +1,9 @@
 """
 58. Length of Last Word  (Easy)
 
-Given a string of words separated by spaces, return the length of the last word
-(a maximal run of non-space characters). There may be trailing spaces.
-
-Approach: scan from the end. Skip any trailing spaces, then count characters
-until the next space or the start of the string. Single pass, no allocation
-(unlike the tidy `s.split()[-1]` one-liner, which builds the whole word list).
-
 Time:  O(n)
 Space: O(1)
 """
-
 
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:

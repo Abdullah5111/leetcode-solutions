@@ -1,15 +1,10 @@
 """
 118. Pascal's Triangle  (Easy)
 
-Given an integer `numRows`, return the first numRows of Pascal's triangle. In
-Pascal's triangle, each number is the sum of the two numbers directly above it.
-
-Approach: build the triangle row by row. Each row starts and ends with 1; every
-interior entry is the sum of the two adjacent entries in the previous row.
-
 Time:  O(numRows^2)
 Space: O(numRows^2)  (for the output)
 """
+
 from typing import List
 
 

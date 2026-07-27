@@ -1,18 +1,10 @@
 """
 1431. Kids With the Greatest Number of Candies  (Easy)
 
-Given `candies` where candies[i] is the number of candies the i-th kid has, and
-an integer `extraCandies`, return a boolean array `result` where result[i] is
-True if, after giving the i-th kid all `extraCandies`, they would have the
-greatest number of candies among all kids (ties count as greatest).
-
-Approach: the current maximum is fixed. Kid i ends up with the greatest count
-iff candies[i] + extraCandies >= max(candies). Compute the max once, then test
-each kid.
-
 Time:  O(n)
 Space: O(n)  (for the output)
 """
+
 from typing import List
 
 

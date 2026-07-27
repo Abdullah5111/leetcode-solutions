@@ -1,19 +1,10 @@
 """
 2605. Form Smallest Number From Two Digit Arrays  (Easy)
 
-Given two arrays of unique digits `nums1` and `nums2`, return the smallest
-number that contains at least one digit from each array.
-
-Approach: two cases.
-  * If the arrays share a digit, a single-digit number suffices — the smallest
-    common digit is the answer.
-  * Otherwise the smallest number needs one digit from each array, i.e. two
-    digits. Take the smallest digit of each array and place the smaller one in
-    the tens place: min(a, b) * 10 + max(a, b).
-
 Time:  O(n + m)
 Space: O(n + m)
 """
+
 from typing import List
 
 

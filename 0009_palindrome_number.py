@@ -1,24 +1,9 @@
 """
 9. Palindrome Number  (Easy)
 
-Given an integer x, return True if x is a palindrome (reads the same forwards
-and backwards). Negative numbers are not palindromes ('-' breaks symmetry).
-
-Approach: reverse only half the digits, then compare.
-- Any negative number, or any positive number ending in 0 (except 0 itself),
-  cannot be a palindrome.
-- Otherwise, peel digits off the right of x and build them onto `rev`. Stop
-  when rev >= x; at that point we've consumed at least half the digits.
-- For even-length numbers, x == rev. For odd-length, x == rev // 10
-  (the middle digit doesn't need to match itself).
-
-Avoids converting to a string and avoids potential overflow from fully
-reversing the integer.
-
 Time:  O(log10(x))
 Space: O(1)
 """
-
 
 class Solution:
     def isPalindrome(self, x: int) -> bool:

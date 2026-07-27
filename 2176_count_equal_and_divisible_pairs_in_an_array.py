@@ -1,16 +1,10 @@
 """
 2176. Count Equal and Divisible Pairs in an Array  (Easy)
 
-Given a 0-indexed integer array `nums` of length n and an integer `k`, return
-the number of pairs (i, j) where 0 <= i < j < n such that nums[i] == nums[j] and
-(i * j) is divisible by k.
-
-Approach: constraints are small (n <= 100), so check every pair directly. A pair
-qualifies when the values match and the index product is a multiple of k.
-
 Time:  O(n^2)
 Space: O(1)
 """
+
 from typing import List
 
 

@@ -1,13 +1,6 @@
 """
 217. Contains Duplicate  (Easy)
 
-Given an integer array nums, return True if any value appears at least twice,
-and False if every element is distinct.
-
-Approach: walk the array once, keeping a set of values already seen. If the
-current value is already in the set we found a duplicate; otherwise add it.
-A set gives O(1) average membership checks, so one pass is enough.
-
 Time:  O(n)
 Space: O(n)
 """

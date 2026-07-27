@@ -1,16 +1,10 @@
 """
 27. Remove Element  (Easy)
 
-Remove all occurrences of val from nums in place and return the new length k.
-The first k elements must hold the survivors (order doesn't matter); the rest
-are ignored.
-
-Approach: a write pointer k. Scan the array and copy every element that isn't
-val to nums[k], advancing k. Everything past k is leftover and disregarded.
-
 Time:  O(n)
 Space: O(1)
 """
+
 from typing import List
 
 

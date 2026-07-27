@@ -1,19 +1,10 @@
 """
 412. Fizz Buzz  (Easy)
 
-Given an integer `n`, return a string array `answer` (1-indexed) where:
-  * answer[i] == "FizzBuzz" if i is divisible by both 3 and 5,
-  * answer[i] == "Fizz"     if i is divisible by 3,
-  * answer[i] == "Buzz"     if i is divisible by 5,
-  * answer[i] == str(i)     otherwise.
-
-Approach: iterate from 1 to n. Build each entry by appending "Fizz" when the
-number is divisible by 3 and "Buzz" when divisible by 5; if neither applies, use
-the number's string form. Concatenating handles the FizzBuzz case automatically.
-
 Time:  O(n)
 Space: O(n)  (for the output)
 """
+
 from typing import List
 
 

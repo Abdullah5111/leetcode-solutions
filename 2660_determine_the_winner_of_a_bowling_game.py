@@ -1,18 +1,10 @@
 """
 2660. Determine the Winner of a Bowling Game  (Easy)
 
-Two players play a turn-based bowling game with the same number of turns.
-`player1` and `player2` give the pins knocked down each turn. Scoring: a turn is
-normally worth its pin count, but if in either of the previous two turns the
-player knocked down all 10 pins, that turn is worth double. Return 1 if player 1
-wins, 2 if player 2 wins, or 0 for a draw.
-
-Approach: compute each player's total in a single pass. A turn i is doubled when
-turns[i-1] == 10 or turns[i-2] == 10. Sum both totals and compare.
-
 Time:  O(n)
 Space: O(1)
 """
+
 from typing import List
 
 

@@ -1,17 +1,10 @@
 """
 344. Reverse String  (Easy)
 
-Write a function that reverses a string. The input string is given as an array
-of characters `s`. You must do this by modifying the input array in place with
-O(1) extra memory.
-
-Approach: two pointers starting at both ends. Swap the characters they point to,
-then move them toward each other until they meet. This reverses the array in
-place using only constant extra space.
-
 Time:  O(n)
 Space: O(1)
 """
+
 from typing import List
 
 

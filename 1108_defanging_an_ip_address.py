@@ -1,15 +1,9 @@
 """
 1108. Defanging an IP Address  (Easy)
 
-Given a valid (IPv4) address `address`, return a defanged version of that IP
-address. A defanged IP address replaces every period "." with "[.]".
-
-Approach: a single string replacement of "." with "[.]".
-
 Time:  O(n)
 Space: O(n)
 """
-
 
 class Solution:
     def defangIPaddr(self, address: str) -> str:

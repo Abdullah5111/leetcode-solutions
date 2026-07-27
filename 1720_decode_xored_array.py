@@ -1,16 +1,10 @@
 """
 1720. Decode XORed Array  (Easy)
 
-There is a hidden array `arr` of n non-negative integers. It was encoded into
-`encoded` of length n-1 such that encoded[i] = arr[i] XOR arr[i + 1]. You are
-also given the integer `first`, which is arr[0]. Return the original array.
-
-Approach: XOR is invertible. Since encoded[i] = arr[i] ^ arr[i + 1], we get
-arr[i + 1] = arr[i] ^ encoded[i]. Start from `first` and fold across `encoded`.
-
 Time:  O(n)
 Space: O(n)  (for the output)
 """
+
 from typing import List
 
 

@@ -1,18 +1,10 @@
 """
 283. Move Zeroes  (Easy)
 
-Given an integer array `nums`, move all 0's to the end of it while maintaining
-the relative order of the non-zero elements. This must be done in place without
-making a copy of the array.
-
-Approach: two pointers. `insert` marks where the next non-zero element belongs.
-Scan the array; each time a non-zero value is found, write it at `insert` and
-advance `insert`. After the scan, positions from `insert` onward are filled with
-zeros. Writing forward like this preserves the order of non-zero elements.
-
 Time:  O(n)
 Space: O(1)
 """
+
 from typing import List
 
 

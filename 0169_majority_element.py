@@ -1,15 +1,6 @@
 """
 169. Majority Element  (Easy)
 
-Given an array nums of size n, return the element that appears more than n / 2
-times. The majority element is guaranteed to exist.
-
-Approach: Boyer-Moore voting. Keep a candidate and a counter. Each value either
-votes for the current candidate (counter += 1) or against it (counter -= 1);
-when the counter hits zero, adopt the next value as the new candidate. Because
-the majority element occupies more than half the array, the votes against it can
-never fully cancel it out, so it survives as the final candidate.
-
 Time:  O(n)
 Space: O(1)
 """

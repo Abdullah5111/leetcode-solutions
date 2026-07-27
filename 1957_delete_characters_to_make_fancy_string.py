@@ -1,19 +1,9 @@
 """
 1957. Delete Characters to Make Fancy String  (Easy)
 
-A fancy string is one where no three consecutive characters are equal. Given a
-string `s`, delete the minimum number of characters so that it becomes fancy,
-and return the result. The answer is guaranteed to be unique.
-
-Approach: scan left to right tracking the run length of the current character.
-Reset the run to 1 whenever the character changes; otherwise increment it. Keep
-a character only while its run length is at most 2 — the third (and beyond) of
-any run is deleted. Constraints guarantee len(s) >= 1, so s[0] is safe to seed.
-
 Time:  O(n)
 Space: O(n)  (for the output)
 """
-
 
 class Solution:
     def makeFancyString(self, s: str) -> str:

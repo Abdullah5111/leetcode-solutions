@@ -1,18 +1,10 @@
 """
 21. Merge Two Sorted Lists  (Easy)
 
-Given the heads of two sorted singly-linked lists, splice them together into
-one sorted list and return its head. The merged list is made by reusing the
-existing nodes (no new node values are created).
-
-Approach: dummy head + tail pointer. Walk both lists, repeatedly attaching the
-smaller current node to the tail and advancing that list. When one list runs
-out, attach the remaining tail of the other (already sorted). Return
-dummy.next.
-
 Time:  O(m + n)
 Space: O(1)   in-place relinking
 """
+
 from typing import Optional
 
 

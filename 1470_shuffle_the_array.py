@@ -1,17 +1,10 @@
 """
 1470. Shuffle the Array  (Easy)
 
-Given the array `nums` consisting of 2n elements in the form
-[x1, x2, ..., xn, y1, y2, ..., yn], return the array in the form
-[x1, y1, x2, y2, ..., xn, yn].
-
-Approach: the first half holds the x values (indices 0..n-1) and the second half
-the y values (indices n..2n-1). Interleave them by walking i from 0 to n-1 and
-appending nums[i] then nums[i + n].
-
 Time:  O(n)
 Space: O(n)  (for the output)
 """
+
 from typing import List
 
 

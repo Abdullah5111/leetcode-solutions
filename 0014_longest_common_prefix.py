@@ -1,17 +1,10 @@
 """
 14. Longest Common Prefix  (Easy)
 
-Find the longest common prefix string amongst an array of strings. If there is
-no common prefix, return "".
-
-Approach: vertical scanning. Walk character positions left-to-right. For each
-position i, take the character from the first string and check that every other
-string has the same character there. Stop as soon as a string is too short or
-a character differs; the prefix is everything matched so far.
-
 Time:  O(S)   S = total number of characters across all strings (worst case)
 Space: O(1)   ignoring the output
 """
+
 from typing import List
 
 

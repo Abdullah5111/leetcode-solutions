@@ -1,17 +1,10 @@
 """
 1365. How Many Numbers Are Smaller Than the Current Number  (Easy)
 
-Given the array `nums`, for each nums[i] count the number of valid j (j != i)
-such that nums[j] < nums[i]. Return the answer as an array.
-
-Approach: values are bounded (0..100 per constraints), so use counting. Build a
-frequency table, then a prefix sum where prefix[v] = how many values are < v.
-The answer for each element is prefix[nums[i]]. This avoids the O(n^2) brute
-force pairwise comparison.
-
 Time:  O(n + K)  where K is the value range (101)
 Space: O(K)
 """
+
 from typing import List
 
 

@@ -1,16 +1,10 @@
 """
 1. Two Sum  (Easy)
 
-Given an array of integers `nums` and an integer `target`, return indices of
-the two numbers such that they add up to `target`.
-
-Approach: single-pass hash map.
-For each number x, the complement we need is `target - x`. If we've already
-seen the complement, we're done. Otherwise, record x's index.
-
 Time:  O(n)
 Space: O(n)
 """
+
 from typing import List
 
 

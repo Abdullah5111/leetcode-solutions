@@ -1,16 +1,10 @@
 """
 1672. Richest Customer Wealth  (Easy)
 
-You are given an m x n grid `accounts` where accounts[i][j] is the amount of
-money the i-th customer has in the j-th bank. A customer's wealth is the sum of
-their bank account balances. Return the wealth of the richest customer.
-
-Approach: each row is one customer, so their wealth is the row sum. Take the
-maximum row sum across all customers.
-
 Time:  O(m * n)
 Space: O(1)
 """
+
 from typing import List
 
 

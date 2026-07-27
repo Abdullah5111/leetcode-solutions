@@ -1,18 +1,10 @@
 """
 88. Merge Sorted Array  (Easy)
 
-nums1 has length m + n: its first m slots are sorted values and the last n are
-zero padding. nums2 holds n sorted values. Merge nums2 into nums1 in place so
-nums1 becomes one sorted array. Return nothing (mutate nums1).
-
-Approach: fill nums1 from the back. Compare the largest unmerged element of each
-side (i in nums1, j in nums2) and drop the bigger into the tail position k,
-walking all three pointers left. Writing back-to-front means we never overwrite
-an nums1 value we still need to read.
-
 Time:  O(m + n)
 Space: O(1)
 """
+
 from typing import List
 
 

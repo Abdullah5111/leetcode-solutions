@@ -1,19 +1,9 @@
 """
 13. Roman to Integer  (Easy)
 
-Given a Roman numeral string, convert it to an integer. Roman numerals are
-normally written largest-to-smallest left-to-right and summed, but six
-subtractive pairs (IV, IX, XL, XC, CD, CM) write a smaller symbol before a
-larger one to mean "subtract".
-
-Approach: single left-to-right pass. For each symbol, if its value is less
-than the value of the symbol to its right, subtract it; otherwise add it.
-This handles every subtractive case without special-casing the pairs.
-
 Time:  O(n)   n = length of the string
 Space: O(1)   the value map is fixed size
 """
-
 
 class Solution:
     def romanToInt(self, s: str) -> int:

@@ -1,16 +1,10 @@
 """
 1480. Running Sum of 1d Array  (Easy)
 
-Given an array `nums`, the running sum is defined as
-runningSum[i] = sum(nums[0..i]). Return the running sum of `nums`.
-
-Approach: keep a rolling total. Walk the array once, add each element to the
-running total, and store the total in place. Updating in place keeps space O(1)
-beyond the output the caller already owns.
-
 Time:  O(n)
 Space: O(1)  (in-place)
 """
+
 from typing import List
 
 

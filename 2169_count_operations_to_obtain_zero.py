@@ -1,20 +1,9 @@
 """
 2169. Count Operations to Obtain Zero  (Easy)
 
-You are given two non-negative integers `num1` and `num2`. In one operation, if
-num1 >= num2 you subtract num2 from num1, otherwise you subtract num1 from num2.
-Return the number of operations required to make either num1 or num2 equal to 0.
-
-Approach: repeatedly subtracting the smaller value from the larger is exactly
-the subtractive Euclidean algorithm. Instead of looping one subtraction at a
-time (slow when one number is much larger), subtract in bulk: from the larger
-value we can remove the smaller one floor(larger / smaller) times at once. Add
-that many operations and continue with the remainder.
-
 Time:  O(log(max(num1, num2)))
 Space: O(1)
 """
-
 
 class Solution:
     def countOperations(self, num1: int, num2: int) -> int:

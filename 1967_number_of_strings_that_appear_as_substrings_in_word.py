@@ -1,15 +1,10 @@
 """
 1967. Number of Strings That Appear as Substrings in Word  (Easy)
 
-Given an array of strings `patterns` and a string `word`, return the number of
-strings in `patterns` that exist as a substring of `word`.
-
-Approach: Python's `in` operator tests substring membership directly. Count how
-many patterns satisfy `pattern in word`.
-
 Time:  O(m * n * k)  where m = len(patterns), n = len(word), k = avg pattern len
 Space: O(1)
 """
+
 from typing import List
 
 

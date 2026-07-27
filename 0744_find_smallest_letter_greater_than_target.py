@@ -1,19 +1,10 @@
 """
 744. Find Smallest Letter Greater Than Target  (Easy)
 
-You are given an array of characters `letters` that is sorted in non-decreasing
-order, and a character `target`. Return the smallest character in `letters` that
-is lexicographically greater than `target`. If no such character exists, the
-letters wrap around, so return letters[0].
-
-Approach: because `letters` is sorted, binary search for the insertion point of
-the smallest character strictly greater than `target`. Narrow [lo, hi) until lo
-points at the first letter > target; take it modulo len(letters) to handle the
-wrap-around when target is >= every letter.
-
 Time:  O(log n)
 Space: O(1)
 """
+
 from typing import List
 
 
