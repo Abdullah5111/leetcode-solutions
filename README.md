@@ -32,6 +32,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 268 | Missing Number | Easy | [0268_missing_number.py](./0268_missing_number.py) |
 | 283 | Move Zeroes | Easy | [0283_move_zeroes.py](./0283_move_zeroes.py) |
 | 344 | Reverse String | Easy | [0344_reverse_string.py](./0344_reverse_string.py) |
+| 412 | Fizz Buzz | Easy | [0412_fizz_buzz.py](./0412_fizz_buzz.py) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | [0744_find_smallest_letter_greater_than_target.py](./0744_find_smallest_letter_greater_than_target.py) |
 | 771 | Jewels and Stones | Easy | [0771_jewels_and_stones.py](./0771_jewels_and_stones.py) |
 | 807 | Max Increase to Keep City Skyline | Medium | [0807_max_increase_keeping_skyline.py](./0807_max_increase_keeping_skyline.py) |
