@@ -46,6 +46,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 1672 | Richest Customer Wealth | Easy | [1672_richest_customer_wealth.py](./1672_richest_customer_wealth.py) |
 | 1720 | Decode XORed Array | Easy | [1720_decode_xored_array.py](./1720_decode_xored_array.py) |
 | 1822 | Sign of the Product of an Array | Easy | [1822_sign_of_the_product_of_an_array.py](./1822_sign_of_the_product_of_an_array.py) |
+| 1903 | Largest Odd Number in String | Easy | [1903_largest_odd_number_in_string.py](./1903_largest_odd_number_in_string.py) |
 | 1929 | Concatenation of Array | Easy | [1929_concatenation_of_array.py](./1929_concatenation_of_array.py) |
 | 1957 | Delete Characters to Make Fancy String | Easy | [1957_delete_characters_to_make_fancy_string.py](./1957_delete_characters_to_make_fancy_string.py) |
 | 1967 | Number of Strings That Appear as Substrings in Word | Easy | [1967_number_of_strings_that_appear_as_substrings_in_word.py](./1967_number_of_strings_that_appear_as_substrings_in_word.py) |
