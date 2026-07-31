@@ -59,6 +59,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 2605 | Form Smallest Number From Two Digit Arrays | Easy | [2605_form_smallest_number_from_two_digit_arrays.py](./2605_form_smallest_number_from_two_digit_arrays.py) |
 | 2660 | Determine the Winner of a Bowling Game | Easy | [2660_determine_the_winner_of_a_bowling_game.py](./2660_determine_the_winner_of_a_bowling_game.py) |
 | 2798 | Number of Employees Who Met the Target | Easy | [2798_number_of_employees_who_met_the_target.py](./2798_number_of_employees_who_met_the_target.py) |
+| 2864 | Maximum Odd Binary Number | Easy | [2864_maximum_odd_binary_number.py](./2864_maximum_odd_binary_number.py) |
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | [2894_divisible_and_non_divisible_sums_difference.py](./2894_divisible_and_non_divisible_sums_difference.py) |
 | 3131 | Find the Integer Added to Array I | Easy | [3131_find_the_integer_added_to_array_i.py](./3131_find_the_integer_added_to_array_i.py) |
 | 3168 | Minimum Number of Chairs in a Waiting Room | Easy | [3168_minimum_number_of_chairs_in_a_waiting_room.py](./3168_minimum_number_of_chairs_in_a_waiting_room.py) |
