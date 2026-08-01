@@ -20,6 +20,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 28 | Find the Index of the First Occurrence in a String | Easy | [0028_find_the_index_of_the_first_occurrence_in_a_string.py](./0028_find_the_index_of_the_first_occurrence_in_a_string.py) |
 | 35 | Search Insert Position | Easy | [0035_search_insert_position.py](./0035_search_insert_position.py) |
 | 58 | Length of Last Word | Easy | [0058_length_of_last_word.py](./0058_length_of_last_word.py) |
+| 66 | Plus One | Easy | [0066_plus_one.py](./0066_plus_one.py) |
 | 70 | Climbing Stairs | Easy | [0070_climbing_stairs.py](./0070_climbing_stairs.py) |
 | 88 | Merge Sorted Array | Easy | [0088_merge_sorted_array.py](./0088_merge_sorted_array.py) |
 | 118 | Pascal's Triangle | Easy | [0118_pascals_triangle.py](./0118_pascals_triangle.py) |
