@@ -43,6 +43,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 807 | Max Increase to Keep City Skyline | Medium | [0807_max_increase_keeping_skyline.py](./0807_max_increase_keeping_skyline.py) |
 | 1108 | Defanging an IP Address | Easy | [1108_defanging_an_ip_address.py](./1108_defanging_an_ip_address.py) |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [1365_how_many_numbers_are_smaller_than_the_current_number.py](./1365_how_many_numbers_are_smaller_than_the_current_number.py) |
+| 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | [1415_kth_lexicographical_string_of_all_happy_strings.py](./1415_kth_lexicographical_string_of_all_happy_strings.py) |
 | 1431 | Kids With the Greatest Number of Candies | Easy | [1431_kids_with_the_greatest_number_of_candies.py](./1431_kids_with_the_greatest_number_of_candies.py) |
 | 1470 | Shuffle the Array | Easy | [1470_shuffle_the_array.py](./1470_shuffle_the_array.py) |
 | 1480 | Running Sum of 1d Array | Easy | [1480_running_sum_of_1d_array.py](./1480_running_sum_of_1d_array.py) |
