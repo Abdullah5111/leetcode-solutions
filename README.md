@@ -30,6 +30,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 169 | Majority Element | Easy | [0169_majority_element.py](./0169_majority_element.py) |
 | 171 | Excel Sheet Column Number | Easy | [0171_excel_sheet_column_number.py](./0171_excel_sheet_column_number.py) |
 | 202 | Happy Number | Easy | [0202_happy_number.py](./0202_happy_number.py) |
+| 206 | Reverse Linked List | Easy | [0206_reverse_linked_list.py](./0206_reverse_linked_list.py) |
 | 217 | Contains Duplicate | Easy | [0217_contains_duplicate.py](./0217_contains_duplicate.py) |
 | 242 | Valid Anagram | Easy | [0242_valid_anagram.py](./0242_valid_anagram.py) |
 | 268 | Missing Number | Easy | [0268_missing_number.py](./0268_missing_number.py) |
