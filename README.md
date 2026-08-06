@@ -40,6 +40,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 283 | Move Zeroes | Easy | [0283_move_zeroes.py](./0283_move_zeroes.py) |
 | 344 | Reverse String | Easy | [0344_reverse_string.py](./0344_reverse_string.py) |
 | 345 | Reverse Vowels of a String | Easy | [0345_reverse_vowels_of_a_string.py](./0345_reverse_vowels_of_a_string.py) |
+| 349 | Intersection of Two Arrays | Easy | [0349_intersection_of_two_arrays.py](./0349_intersection_of_two_arrays.py) |
 | 383 | Ransom Note | Easy | [0383_ransom_note.py](./0383_ransom_note.py) |
 | 387 | First Unique Character in a String | Easy | [0387_first_unique_character_in_a_string.py](./0387_first_unique_character_in_a_string.py) |
 | 412 | Fizz Buzz | Easy | [0412_fizz_buzz.py](./0412_fizz_buzz.py) |
