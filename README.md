@@ -46,6 +46,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 387 | First Unique Character in a String | Easy | [0387_first_unique_character_in_a_string.py](./0387_first_unique_character_in_a_string.py) |
 | 392 | Is Subsequence | Easy | [0392_is_subsequence.py](./0392_is_subsequence.py) |
 | 412 | Fizz Buzz | Easy | [0412_fizz_buzz.py](./0412_fizz_buzz.py) |
+| 415 | Add Strings | Easy | [0415_add_strings.py](./0415_add_strings.py) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | [0744_find_smallest_letter_greater_than_target.py](./0744_find_smallest_letter_greater_than_target.py) |
 | 771 | Jewels and Stones | Easy | [0771_jewels_and_stones.py](./0771_jewels_and_stones.py) |
 | 807 | Max Increase to Keep City Skyline | Medium | [0807_max_increase_keeping_skyline.py](./0807_max_increase_keeping_skyline.py) |
