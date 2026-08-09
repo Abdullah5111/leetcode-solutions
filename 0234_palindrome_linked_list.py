@@ -1,0 +1,54 @@
+"""
+234. Palindrome Linked List  (Easy)
+
+Time:  O(n)
+Space: O(1)
+"""
+from typing import Optional
+
+
+class ListNode:
+    def __init__(self, val: int = 0, next: "Optional[ListNode]" = None):
+        self.val = val
+        self.next = next
+
+
+class Solution:
+    def isPalindrome(self, head: Optional[ListNode]) -> bool:
+        slow = fast = head
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+
+        prev = None
+        while slow:
+            nxt = slow.next
+            slow.next = prev
+            prev = slow
+            slow = nxt
+
+        left, right = head, prev
+        while right:
+            if left.val != right.val:
+                return False
+            left = left.next
+            right = right.next
+        return True
+
+
+def _build(values):
+    """Build a linked list from a Python list, return its head."""
+    dummy = ListNode()
+    tail = dummy
+    for v in values:
+        tail.next = ListNode(v)
+        tail = tail.next
+    return dummy.next
+
+
+if __name__ == "__main__":
+    assert Solution().isPalindrome(_build([1, 2, 2, 1])) is True
+    assert Solution().isPalindrome(_build([1, 2])) is False
+    assert Solution().isPalindrome(_build([1, 2, 3, 2, 1])) is True
+    assert Solution().isPalindrome(_build([1])) is True
+    print("ok")
