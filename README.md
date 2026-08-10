@@ -49,6 +49,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 412 | Fizz Buzz | Easy | [0412_fizz_buzz.py](./0412_fizz_buzz.py) |
 | 415 | Add Strings | Easy | [0415_add_strings.py](./0415_add_strings.py) |
 | 496 | Next Greater Element I | Easy | [0496_next_greater_element_i.py](./0496_next_greater_element_i.py) |
+| 645 | Set Mismatch | Easy | [0645_set_mismatch.py](./0645_set_mismatch.py) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | [0744_find_smallest_letter_greater_than_target.py](./0744_find_smallest_letter_greater_than_target.py) |
 | 771 | Jewels and Stones | Easy | [0771_jewels_and_stones.py](./0771_jewels_and_stones.py) |
 | 807 | Max Increase to Keep City Skyline | Medium | [0807_max_increase_keeping_skyline.py](./0807_max_increase_keeping_skyline.py) |
