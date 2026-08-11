@@ -47,6 +47,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 383 | Ransom Note | Easy | [0383_ransom_note.py](./0383_ransom_note.py) |
 | 387 | First Unique Character in a String | Easy | [0387_first_unique_character_in_a_string.py](./0387_first_unique_character_in_a_string.py) |
 | 392 | Is Subsequence | Easy | [0392_is_subsequence.py](./0392_is_subsequence.py) |
+| 409 | Longest Palindrome | Easy | [0409_longest_palindrome.py](./0409_longest_palindrome.py) |
 | 412 | Fizz Buzz | Easy | [0412_fizz_buzz.py](./0412_fizz_buzz.py) |
 | 415 | Add Strings | Easy | [0415_add_strings.py](./0415_add_strings.py) |
 | 496 | Next Greater Element I | Easy | [0496_next_greater_element_i.py](./0496_next_greater_element_i.py) |
