@@ -50,6 +50,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 409 | Longest Palindrome | Easy | [0409_longest_palindrome.py](./0409_longest_palindrome.py) |
 | 412 | Fizz Buzz | Easy | [0412_fizz_buzz.py](./0412_fizz_buzz.py) |
 | 415 | Add Strings | Easy | [0415_add_strings.py](./0415_add_strings.py) |
+| 448 | Find All Numbers Disappeared in an Array | Easy | [0448_find_all_numbers_disappeared_in_an_array.py](./0448_find_all_numbers_disappeared_in_an_array.py) |
 | 496 | Next Greater Element I | Easy | [0496_next_greater_element_i.py](./0496_next_greater_element_i.py) |
 | 645 | Set Mismatch | Easy | [0645_set_mismatch.py](./0645_set_mismatch.py) |
 | 704 | Binary Search | Easy | [0704_binary_search.py](./0704_binary_search.py) |
