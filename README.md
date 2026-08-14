@@ -25,6 +25,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 70 | Climbing Stairs | Easy | [0070_climbing_stairs.py](./0070_climbing_stairs.py) |
 | 88 | Merge Sorted Array | Easy | [0088_merge_sorted_array.py](./0088_merge_sorted_array.py) |
 | 101 | Symmetric Tree | Easy | [0101_symmetric_tree.py](./0101_symmetric_tree.py) |
+| 104 | Maximum Depth of Binary Tree | Easy | [0104_maximum_depth_of_binary_tree.py](./0104_maximum_depth_of_binary_tree.py) |
 | 118 | Pascal's Triangle | Easy | [0118_pascals_triangle.py](./0118_pascals_triangle.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [0121_best_time_to_buy_and_sell_stock.py](./0121_best_time_to_buy_and_sell_stock.py) |
 | 125 | Valid Palindrome | Easy | [0125_valid_palindrome.py](./0125_valid_palindrome.py) |
