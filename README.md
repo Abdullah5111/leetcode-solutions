@@ -39,6 +39,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 205 | Isomorphic Strings | Easy | [0205_isomorphic_strings.py](./0205_isomorphic_strings.py) |
 | 206 | Reverse Linked List | Easy | [0206_reverse_linked_list.py](./0206_reverse_linked_list.py) |
 | 217 | Contains Duplicate | Easy | [0217_contains_duplicate.py](./0217_contains_duplicate.py) |
+| 226 | Invert Binary Tree | Easy | [0226_invert_binary_tree.py](./0226_invert_binary_tree.py) |
 | 228 | Summary Ranges | Easy | [0228_summary_ranges.py](./0228_summary_ranges.py) |
 | 231 | Power of Two | Easy | [0231_power_of_two.py](./0231_power_of_two.py) |
 | 234 | Palindrome Linked List | Easy | [0234_palindrome_linked_list.py](./0234_palindrome_linked_list.py) |
