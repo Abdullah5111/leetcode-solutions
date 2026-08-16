@@ -58,6 +58,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 448 | Find All Numbers Disappeared in an Array | Easy | [0448_find_all_numbers_disappeared_in_an_array.py](./0448_find_all_numbers_disappeared_in_an_array.py) |
 | 496 | Next Greater Element I | Easy | [0496_next_greater_element_i.py](./0496_next_greater_element_i.py) |
 | 543 | Diameter of Binary Tree | Easy | [0543_diameter_of_binary_tree.py](./0543_diameter_of_binary_tree.py) |
+| 572 | Subtree of Another Tree | Easy | [0572_subtree_of_another_tree.py](./0572_subtree_of_another_tree.py) |
 | 645 | Set Mismatch | Easy | [0645_set_mismatch.py](./0645_set_mismatch.py) |
 | 704 | Binary Search | Easy | [0704_binary_search.py](./0704_binary_search.py) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | [0744_find_smallest_letter_greater_than_target.py](./0744_find_smallest_letter_greater_than_target.py) |
