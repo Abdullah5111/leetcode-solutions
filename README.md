@@ -29,6 +29,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 110 | Balanced Binary Tree | Easy | [0110_balanced_binary_tree.py](./0110_balanced_binary_tree.py) |
 | 112 | Path Sum | Easy | [0112_path_sum.py](./0112_path_sum.py) |
 | 118 | Pascal's Triangle | Easy | [0118_pascals_triangle.py](./0118_pascals_triangle.py) |
+| 119 | Pascal's Triangle II | Easy | [0119_pascals_triangle_ii.py](./0119_pascals_triangle_ii.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [0121_best_time_to_buy_and_sell_stock.py](./0121_best_time_to_buy_and_sell_stock.py) |
 | 125 | Valid Palindrome | Easy | [0125_valid_palindrome.py](./0125_valid_palindrome.py) |
 | 136 | Single Number | Easy | [0136_single_number.py](./0136_single_number.py) |
