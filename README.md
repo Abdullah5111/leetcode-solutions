@@ -23,6 +23,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 58 | Length of Last Word | Easy | [0058_length_of_last_word.py](./0058_length_of_last_word.py) |
 | 66 | Plus One | Easy | [0066_plus_one.py](./0066_plus_one.py) |
 | 70 | Climbing Stairs | Easy | [0070_climbing_stairs.py](./0070_climbing_stairs.py) |
+| 83 | Remove Duplicates from Sorted List | Easy | [0083_remove_duplicates_from_sorted_list.py](./0083_remove_duplicates_from_sorted_list.py) |
 | 88 | Merge Sorted Array | Easy | [0088_merge_sorted_array.py](./0088_merge_sorted_array.py) |
 | 101 | Symmetric Tree | Easy | [0101_symmetric_tree.py](./0101_symmetric_tree.py) |
 | 104 | Maximum Depth of Binary Tree | Easy | [0104_maximum_depth_of_binary_tree.py](./0104_maximum_depth_of_binary_tree.py) |
