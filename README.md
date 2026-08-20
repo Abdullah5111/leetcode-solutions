@@ -35,6 +35,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 125 | Valid Palindrome | Easy | [0125_valid_palindrome.py](./0125_valid_palindrome.py) |
 | 136 | Single Number | Easy | [0136_single_number.py](./0136_single_number.py) |
 | 141 | Linked List Cycle | Easy | [0141_linked_list_cycle.py](./0141_linked_list_cycle.py) |
+| 160 | Intersection of Two Linked Lists | Easy | [0160_intersection_of_two_linked_lists.py](./0160_intersection_of_two_linked_lists.py) |
 | 169 | Majority Element | Easy | [0169_majority_element.py](./0169_majority_element.py) |
 | 171 | Excel Sheet Column Number | Easy | [0171_excel_sheet_column_number.py](./0171_excel_sheet_column_number.py) |
 | 191 | Number of 1 Bits | Easy | [0191_number_of_1_bits.py](./0191_number_of_1_bits.py) |
