@@ -22,6 +22,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 28 | Find the Index of the First Occurrence in a String | Easy | [0028_find_the_index_of_the_first_occurrence_in_a_string.py](./0028_find_the_index_of_the_first_occurrence_in_a_string.py) |
 | 35 | Search Insert Position | Easy | [0035_search_insert_position.py](./0035_search_insert_position.py) |
 | 53 | Maximum Subarray | Medium | [0053_maximum_subarray.py](./0053_maximum_subarray.py) |
+| 55 | Jump Game | Medium | [0055_jump_game.py](./0055_jump_game.py) |
 | 58 | Length of Last Word | Easy | [0058_length_of_last_word.py](./0058_length_of_last_word.py) |
 | 66 | Plus One | Easy | [0066_plus_one.py](./0066_plus_one.py) |
 | 70 | Climbing Stairs | Easy | [0070_climbing_stairs.py](./0070_climbing_stairs.py) |
@@ -34,6 +35,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 118 | Pascal's Triangle | Easy | [0118_pascals_triangle.py](./0118_pascals_triangle.py) |
 | 119 | Pascal's Triangle II | Easy | [0119_pascals_triangle_ii.py](./0119_pascals_triangle_ii.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [0121_best_time_to_buy_and_sell_stock.py](./0121_best_time_to_buy_and_sell_stock.py) |
+| 134 | Gas Station | Medium | [0134_gas_station.py](./0134_gas_station.py) |
 | 238 | Product of Array Except Self | Medium | [0238_product_of_array_except_self.py](./0238_product_of_array_except_self.py) |
 | 125 | Valid Palindrome | Easy | [0125_valid_palindrome.py](./0125_valid_palindrome.py) |
 | 136 | Single Number | Easy | [0136_single_number.py](./0136_single_number.py) |
