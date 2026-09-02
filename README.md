@@ -35,11 +35,13 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 118 | Pascal's Triangle | Easy | [0118_pascals_triangle.py](./0118_pascals_triangle.py) |
 | 119 | Pascal's Triangle II | Easy | [0119_pascals_triangle_ii.py](./0119_pascals_triangle_ii.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [0121_best_time_to_buy_and_sell_stock.py](./0121_best_time_to_buy_and_sell_stock.py) |
+| 128 | Longest Consecutive Sequence | Medium | [0128_longest_consecutive_sequence.py](./0128_longest_consecutive_sequence.py) |
 | 134 | Gas Station | Medium | [0134_gas_station.py](./0134_gas_station.py) |
 | 238 | Product of Array Except Self | Medium | [0238_product_of_array_except_self.py](./0238_product_of_array_except_self.py) |
 | 125 | Valid Palindrome | Easy | [0125_valid_palindrome.py](./0125_valid_palindrome.py) |
 | 136 | Single Number | Easy | [0136_single_number.py](./0136_single_number.py) |
 | 141 | Linked List Cycle | Easy | [0141_linked_list_cycle.py](./0141_linked_list_cycle.py) |
+| 152 | Maximum Product Subarray | Medium | [0152_maximum_product_subarray.py](./0152_maximum_product_subarray.py) |
 | 160 | Intersection of Two Linked Lists | Easy | [0160_intersection_of_two_linked_lists.py](./0160_intersection_of_two_linked_lists.py) |
 | 169 | Majority Element | Easy | [0169_majority_element.py](./0169_majority_element.py) |
 | 171 | Excel Sheet Column Number | Easy | [0171_excel_sheet_column_number.py](./0171_excel_sheet_column_number.py) |
