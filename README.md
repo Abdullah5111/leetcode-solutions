@@ -42,9 +42,11 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 136 | Single Number | Easy | [0136_single_number.py](./0136_single_number.py) |
 | 141 | Linked List Cycle | Easy | [0141_linked_list_cycle.py](./0141_linked_list_cycle.py) |
 | 152 | Maximum Product Subarray | Medium | [0152_maximum_product_subarray.py](./0152_maximum_product_subarray.py) |
+| 153 | Find Minimum in Rotated Sorted Array | Medium | [0153_find_minimum_in_rotated_sorted_array.py](./0153_find_minimum_in_rotated_sorted_array.py) |
 | 160 | Intersection of Two Linked Lists | Easy | [0160_intersection_of_two_linked_lists.py](./0160_intersection_of_two_linked_lists.py) |
 | 169 | Majority Element | Easy | [0169_majority_element.py](./0169_majority_element.py) |
 | 171 | Excel Sheet Column Number | Easy | [0171_excel_sheet_column_number.py](./0171_excel_sheet_column_number.py) |
+| 189 | Rotate Array | Medium | [0189_rotate_array.py](./0189_rotate_array.py) |
 | 191 | Number of 1 Bits | Easy | [0191_number_of_1_bits.py](./0191_number_of_1_bits.py) |
 | 202 | Happy Number | Easy | [0202_happy_number.py](./0202_happy_number.py) |
 | 205 | Isomorphic Strings | Easy | [0205_isomorphic_strings.py](./0205_isomorphic_strings.py) |
