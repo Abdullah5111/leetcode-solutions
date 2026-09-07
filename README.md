@@ -60,6 +60,8 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 242 | Valid Anagram | Easy | [0242_valid_anagram.py](./0242_valid_anagram.py) |
 | 268 | Missing Number | Easy | [0268_missing_number.py](./0268_missing_number.py) |
 | 283 | Move Zeroes | Easy | [0283_move_zeroes.py](./0283_move_zeroes.py) |
+| 322 | Coin Change | Medium | [0322_coin_change.py](./0322_coin_change.py) |
+| 338 | Counting Bits | Easy | [0338_counting_bits.py](./0338_counting_bits.py) |
 | 344 | Reverse String | Easy | [0344_reverse_string.py](./0344_reverse_string.py) |
 | 345 | Reverse Vowels of a String | Easy | [0345_reverse_vowels_of_a_string.py](./0345_reverse_vowels_of_a_string.py) |
 | 349 | Intersection of Two Arrays | Easy | [0349_intersection_of_two_arrays.py](./0349_intersection_of_two_arrays.py) |
