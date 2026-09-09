@@ -64,10 +64,12 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 338 | Counting Bits | Easy | [0338_counting_bits.py](./0338_counting_bits.py) |
 | 344 | Reverse String | Easy | [0344_reverse_string.py](./0344_reverse_string.py) |
 | 345 | Reverse Vowels of a String | Easy | [0345_reverse_vowels_of_a_string.py](./0345_reverse_vowels_of_a_string.py) |
+| 347 | Top K Frequent Elements | Medium | [0347_top_k_frequent_elements.py](./0347_top_k_frequent_elements.py) |
 | 349 | Intersection of Two Arrays | Easy | [0349_intersection_of_two_arrays.py](./0349_intersection_of_two_arrays.py) |
 | 383 | Ransom Note | Easy | [0383_ransom_note.py](./0383_ransom_note.py) |
 | 387 | First Unique Character in a String | Easy | [0387_first_unique_character_in_a_string.py](./0387_first_unique_character_in_a_string.py) |
 | 392 | Is Subsequence | Easy | [0392_is_subsequence.py](./0392_is_subsequence.py) |
+| 394 | Decode String | Medium | [0394_decode_string.py](./0394_decode_string.py) |
 | 409 | Longest Palindrome | Easy | [0409_longest_palindrome.py](./0409_longest_palindrome.py) |
 | 412 | Fizz Buzz | Easy | [0412_fizz_buzz.py](./0412_fizz_buzz.py) |
 | 415 | Add Strings | Easy | [0415_add_strings.py](./0415_add_strings.py) |
