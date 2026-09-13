@@ -23,6 +23,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 35 | Search Insert Position | Easy | [0035_search_insert_position.py](./0035_search_insert_position.py) |
 | 53 | Maximum Subarray | Medium | [0053_maximum_subarray.py](./0053_maximum_subarray.py) |
 | 55 | Jump Game | Medium | [0055_jump_game.py](./0055_jump_game.py) |
+| 56 | Merge Intervals | Medium | [0056_merge_intervals.py](./0056_merge_intervals.py) |
 | 58 | Length of Last Word | Easy | [0058_length_of_last_word.py](./0058_length_of_last_word.py) |
 | 66 | Plus One | Easy | [0066_plus_one.py](./0066_plus_one.py) |
 | 70 | Climbing Stairs | Easy | [0070_climbing_stairs.py](./0070_climbing_stairs.py) |
@@ -46,6 +47,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 160 | Intersection of Two Linked Lists | Easy | [0160_intersection_of_two_linked_lists.py](./0160_intersection_of_two_linked_lists.py) |
 | 169 | Majority Element | Easy | [0169_majority_element.py](./0169_majority_element.py) |
 | 171 | Excel Sheet Column Number | Easy | [0171_excel_sheet_column_number.py](./0171_excel_sheet_column_number.py) |
+| 200 | Number of Islands | Medium | [0200_number_of_islands.py](./0200_number_of_islands.py) |
 | 189 | Rotate Array | Medium | [0189_rotate_array.py](./0189_rotate_array.py) |
 | 191 | Number of 1 Bits | Easy | [0191_number_of_1_bits.py](./0191_number_of_1_bits.py) |
 | 198 | House Robber | Medium | [0198_house_robber.py](./0198_house_robber.py) |
