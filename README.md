@@ -60,10 +60,12 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 226 | Invert Binary Tree | Easy | [0226_invert_binary_tree.py](./0226_invert_binary_tree.py) |
 | 228 | Summary Ranges | Easy | [0228_summary_ranges.py](./0228_summary_ranges.py) |
 | 231 | Power of Two | Easy | [0231_power_of_two.py](./0231_power_of_two.py) |
+| 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | [0235_lowest_common_ancestor_of_a_binary_search_tree.py](./0235_lowest_common_ancestor_of_a_binary_search_tree.py) |
 | 234 | Palindrome Linked List | Easy | [0234_palindrome_linked_list.py](./0234_palindrome_linked_list.py) |
 | 242 | Valid Anagram | Easy | [0242_valid_anagram.py](./0242_valid_anagram.py) |
 | 268 | Missing Number | Easy | [0268_missing_number.py](./0268_missing_number.py) |
 | 283 | Move Zeroes | Easy | [0283_move_zeroes.py](./0283_move_zeroes.py) |
+| 287 | Find the Duplicate Number | Medium | [0287_find_the_duplicate_number.py](./0287_find_the_duplicate_number.py) |
 | 322 | Coin Change | Medium | [0322_coin_change.py](./0322_coin_change.py) |
 | 338 | Counting Bits | Easy | [0338_counting_bits.py](./0338_counting_bits.py) |
 | 344 | Reverse String | Easy | [0344_reverse_string.py](./0344_reverse_string.py) |
