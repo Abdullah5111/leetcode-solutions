@@ -21,6 +21,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 27 | Remove Element | Easy | [0027_remove_element.py](./0027_remove_element.py) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | [0028_find_the_index_of_the_first_occurrence_in_a_string.py](./0028_find_the_index_of_the_first_occurrence_in_a_string.py) |
 | 35 | Search Insert Position | Easy | [0035_search_insert_position.py](./0035_search_insert_position.py) |
+| 48 | Rotate Image | Medium | [0048_rotate_image.py](./0048_rotate_image.py) |
 | 53 | Maximum Subarray | Medium | [0053_maximum_subarray.py](./0053_maximum_subarray.py) |
 | 55 | Jump Game | Medium | [0055_jump_game.py](./0055_jump_game.py) |
 | 56 | Merge Intervals | Medium | [0056_merge_intervals.py](./0056_merge_intervals.py) |
@@ -65,6 +66,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 242 | Valid Anagram | Easy | [0242_valid_anagram.py](./0242_valid_anagram.py) |
 | 268 | Missing Number | Easy | [0268_missing_number.py](./0268_missing_number.py) |
 | 283 | Move Zeroes | Easy | [0283_move_zeroes.py](./0283_move_zeroes.py) |
+| 300 | Longest Increasing Subsequence | Medium | [0300_longest_increasing_subsequence.py](./0300_longest_increasing_subsequence.py) |
 | 287 | Find the Duplicate Number | Medium | [0287_find_the_duplicate_number.py](./0287_find_the_duplicate_number.py) |
 | 322 | Coin Change | Medium | [0322_coin_change.py](./0322_coin_change.py) |
 | 338 | Counting Bits | Easy | [0338_counting_bits.py](./0338_counting_bits.py) |
