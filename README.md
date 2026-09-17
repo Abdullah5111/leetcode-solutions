@@ -22,6 +22,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 28 | Find the Index of the First Occurrence in a String | Easy | [0028_find_the_index_of_the_first_occurrence_in_a_string.py](./0028_find_the_index_of_the_first_occurrence_in_a_string.py) |
 | 35 | Search Insert Position | Easy | [0035_search_insert_position.py](./0035_search_insert_position.py) |
 | 48 | Rotate Image | Medium | [0048_rotate_image.py](./0048_rotate_image.py) |
+| 49 | Group Anagrams | Medium | [0049_group_anagrams.py](./0049_group_anagrams.py) |
 | 53 | Maximum Subarray | Medium | [0053_maximum_subarray.py](./0053_maximum_subarray.py) |
 | 55 | Jump Game | Medium | [0055_jump_game.py](./0055_jump_game.py) |
 | 56 | Merge Intervals | Medium | [0056_merge_intervals.py](./0056_merge_intervals.py) |
@@ -44,6 +45,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 125 | Valid Palindrome | Easy | [0125_valid_palindrome.py](./0125_valid_palindrome.py) |
 | 136 | Single Number | Easy | [0136_single_number.py](./0136_single_number.py) |
 | 141 | Linked List Cycle | Easy | [0141_linked_list_cycle.py](./0141_linked_list_cycle.py) |
+| 146 | LRU Cache | Medium | [0146_lru_cache.py](./0146_lru_cache.py) |
 | 152 | Maximum Product Subarray | Medium | [0152_maximum_product_subarray.py](./0152_maximum_product_subarray.py) |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | [0153_find_minimum_in_rotated_sorted_array.py](./0153_find_minimum_in_rotated_sorted_array.py) |
 | 160 | Intersection of Two Linked Lists | Easy | [0160_intersection_of_two_linked_lists.py](./0160_intersection_of_two_linked_lists.py) |
