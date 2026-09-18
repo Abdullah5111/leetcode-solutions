@@ -32,6 +32,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 83 | Remove Duplicates from Sorted List | Easy | [0083_remove_duplicates_from_sorted_list.py](./0083_remove_duplicates_from_sorted_list.py) |
 | 88 | Merge Sorted Array | Easy | [0088_merge_sorted_array.py](./0088_merge_sorted_array.py) |
 | 101 | Symmetric Tree | Easy | [0101_symmetric_tree.py](./0101_symmetric_tree.py) |
+| 102 | Binary Tree Level Order Traversal | Medium | [0102_binary_tree_level_order_traversal.py](./0102_binary_tree_level_order_traversal.py) |
 | 104 | Maximum Depth of Binary Tree | Easy | [0104_maximum_depth_of_binary_tree.py](./0104_maximum_depth_of_binary_tree.py) |
 | 110 | Balanced Binary Tree | Easy | [0110_balanced_binary_tree.py](./0110_balanced_binary_tree.py) |
 | 112 | Path Sum | Easy | [0112_path_sum.py](./0112_path_sum.py) |
@@ -57,6 +58,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 191 | Number of 1 Bits | Easy | [0191_number_of_1_bits.py](./0191_number_of_1_bits.py) |
 | 198 | House Robber | Medium | [0198_house_robber.py](./0198_house_robber.py) |
 | 202 | Happy Number | Easy | [0202_happy_number.py](./0202_happy_number.py) |
+| 208 | Implement Trie (Prefix Tree) | Medium | [0208_implement_trie.py](./0208_implement_trie.py) |
 | 205 | Isomorphic Strings | Easy | [0205_isomorphic_strings.py](./0205_isomorphic_strings.py) |
 | 206 | Reverse Linked List | Easy | [0206_reverse_linked_list.py](./0206_reverse_linked_list.py) |
 | 217 | Contains Duplicate | Easy | [0217_contains_duplicate.py](./0217_contains_duplicate.py) |
@@ -73,6 +75,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 322 | Coin Change | Medium | [0322_coin_change.py](./0322_coin_change.py) |
 | 338 | Counting Bits | Easy | [0338_counting_bits.py](./0338_counting_bits.py) |
 | 344 | Reverse String | Easy | [0344_reverse_string.py](./0344_reverse_string.py) |
+| 378 | Kth Smallest Element in a Sorted Matrix | Medium | [0378_kth_smallest_element_in_a_sorted_matrix.py](./0378_kth_smallest_element_in_a_sorted_matrix.py) |
 | 345 | Reverse Vowels of a String | Easy | [0345_reverse_vowels_of_a_string.py](./0345_reverse_vowels_of_a_string.py) |
 | 347 | Top K Frequent Elements | Medium | [0347_top_k_frequent_elements.py](./0347_top_k_frequent_elements.py) |
 | 349 | Intersection of Two Arrays | Easy | [0349_intersection_of_two_arrays.py](./0349_intersection_of_two_arrays.py) |
