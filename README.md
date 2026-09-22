@@ -21,6 +21,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 27 | Remove Element | Easy | [0027_remove_element.py](./0027_remove_element.py) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | [0028_find_the_index_of_the_first_occurrence_in_a_string.py](./0028_find_the_index_of_the_first_occurrence_in_a_string.py) |
 | 35 | Search Insert Position | Easy | [0035_search_insert_position.py](./0035_search_insert_position.py) |
+| 42 | Trapping Rain Water | Hard | [0042_trapping_rain_water.py](./0042_trapping_rain_water.py) |
 | 48 | Rotate Image | Medium | [0048_rotate_image.py](./0048_rotate_image.py) |
 | 49 | Group Anagrams | Medium | [0049_group_anagrams.py](./0049_group_anagrams.py) |
 | 53 | Maximum Subarray | Medium | [0053_maximum_subarray.py](./0053_maximum_subarray.py) |
