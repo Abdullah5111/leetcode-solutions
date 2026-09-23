@@ -67,6 +67,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 228 | Summary Ranges | Easy | [0228_summary_ranges.py](./0228_summary_ranges.py) |
 | 231 | Power of Two | Easy | [0231_power_of_two.py](./0231_power_of_two.py) |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | [0235_lowest_common_ancestor_of_a_binary_search_tree.py](./0235_lowest_common_ancestor_of_a_binary_search_tree.py) |
+| 239 | Sliding Window Maximum | Hard | [0239_sliding_window_maximum.py](./0239_sliding_window_maximum.py) |
 | 234 | Palindrome Linked List | Easy | [0234_palindrome_linked_list.py](./0234_palindrome_linked_list.py) |
 | 242 | Valid Anagram | Easy | [0242_valid_anagram.py](./0242_valid_anagram.py) |
 | 268 | Missing Number | Easy | [0268_missing_number.py](./0268_missing_number.py) |
