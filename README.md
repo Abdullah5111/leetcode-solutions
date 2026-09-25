@@ -127,9 +127,11 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 2864 | Maximum Odd Binary Number | Easy | [2864_maximum_odd_binary_number.py](./2864_maximum_odd_binary_number.py) |
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | [2894_divisible_and_non_divisible_sums_difference.py](./2894_divisible_and_non_divisible_sums_difference.py) |
 | 3131 | Find the Integer Added to Array I | Easy | [3131_find_the_integer_added_to_array_i.py](./3131_find_the_integer_added_to_array_i.py) |
+| 3146 | Permutation Difference between Two Strings | Easy | [3146_permutation_difference_between_two_strings.py](./3146_permutation_difference_between_two_strings.py) |
 | 3168 | Minimum Number of Chairs in a Waiting Room | Easy | [3168_minimum_number_of_chairs_in_a_waiting_room.py](./3168_minimum_number_of_chairs_in_a_waiting_room.py) |
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy | [3190_minimum_operations_to_make_elements_divisible_by_three.py](./3190_minimum_operations_to_make_elements_divisible_by_three.py) |
 | 3289 | The Two Sneaky Numbers of Digitville | Easy | [3289_the_two_sneaky_numbers_of_digitville.py](./3289_the_two_sneaky_numbers_of_digitville.py) |
+| 3300 | Minimum Element After Replacement With Digit Sum | Easy | [3300_minimum_element_after_replacement_with_digit_sum.py](./3300_minimum_element_after_replacement_with_digit_sum.py) |
 | 3516 | Find Closest Person | Easy | [3516_find_closest_person.py](./3516_find_closest_person.py) |
 | 3751 | Total Waviness of Numbers in Range I | Medium | [3751_total_waviness_of_numbers_in_range_i.py](./3751_total_waviness_of_numbers_in_range_i.py) |
 | 3760 | Maximum Substrings With Distinct Start | Medium | [3760_maximum_substrings_with_distinct_start.py](./3760_maximum_substrings_with_distinct_start.py) |
