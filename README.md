@@ -10,6 +10,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 |---|---------|------------|------|
 | 1 | Two Sum | Easy | [0001_two_sum.py](./0001_two_sum.py) |
 | 2 | Add Two Numbers | Medium | [0002_add_two_numbers.py](./0002_add_two_numbers.py) |
+| 3 | Longest Substring Without Repeating Characters | Medium | [0003_longest_substring_without_repeating_characters.py](./0003_longest_substring_without_repeating_characters.py) |
 | 7 | Reverse Integer | Medium | [0007_reverse_integer.py](./0007_reverse_integer.py) |
 | 9 | Palindrome Number | Easy | [0009_palindrome_number.py](./0009_palindrome_number.py) |
 | 11 | Container With Most Water | Medium | [0011_container_with_most_water.py](./0011_container_with_most_water.py) |
