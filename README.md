@@ -16,6 +16,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 11 | Container With Most Water | Medium | [0011_container_with_most_water.py](./0011_container_with_most_water.py) |
 | 13 | Roman to Integer | Easy | [0013_roman_to_integer.py](./0013_roman_to_integer.py) |
 | 14 | Longest Common Prefix | Easy | [0014_longest_common_prefix.py](./0014_longest_common_prefix.py) |
+| 15 | 3Sum | Medium | [0015_3sum.py](./0015_3sum.py) |
 | 20 | Valid Parentheses | Easy | [0020_valid_parentheses.py](./0020_valid_parentheses.py) |
 | 21 | Merge Two Sorted Lists | Easy | [0021_merge_two_sorted_lists.py](./0021_merge_two_sorted_lists.py) |
 | 26 | Remove Duplicates from Sorted Array | Easy | [0026_remove_duplicates_from_sorted_array.py](./0026_remove_duplicates_from_sorted_array.py) |
@@ -31,6 +32,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 58 | Length of Last Word | Easy | [0058_length_of_last_word.py](./0058_length_of_last_word.py) |
 | 66 | Plus One | Easy | [0066_plus_one.py](./0066_plus_one.py) |
 | 70 | Climbing Stairs | Easy | [0070_climbing_stairs.py](./0070_climbing_stairs.py) |
+| 74 | Search a 2D Matrix | Medium | [0074_search_a_2d_matrix.py](./0074_search_a_2d_matrix.py) |
 | 83 | Remove Duplicates from Sorted List | Easy | [0083_remove_duplicates_from_sorted_list.py](./0083_remove_duplicates_from_sorted_list.py) |
 | 88 | Merge Sorted Array | Easy | [0088_merge_sorted_array.py](./0088_merge_sorted_array.py) |
 | 101 | Symmetric Tree | Easy | [0101_symmetric_tree.py](./0101_symmetric_tree.py) |
