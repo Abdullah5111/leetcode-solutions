@@ -107,6 +107,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 744 | Find Smallest Letter Greater Than Target | Easy | [0744_find_smallest_letter_greater_than_target.py](./0744_find_smallest_letter_greater_than_target.py) |
 | 771 | Jewels and Stones | Easy | [0771_jewels_and_stones.py](./0771_jewels_and_stones.py) |
 | 807 | Max Increase to Keep City Skyline | Medium | [0807_max_increase_keeping_skyline.py](./0807_max_increase_keeping_skyline.py) |
+| 1038 | Binary Search Tree to Greater Sum Tree | Medium | [1038_binary_search_tree_to_greater_sum_tree.py](./1038_binary_search_tree_to_greater_sum_tree.py) |
 | 1108 | Defanging an IP Address | Easy | [1108_defanging_an_ip_address.py](./1108_defanging_an_ip_address.py) |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [1365_how_many_numbers_are_smaller_than_the_current_number.py](./1365_how_many_numbers_are_smaller_than_the_current_number.py) |
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | [1415_kth_lexicographical_string_of_all_happy_strings.py](./1415_kth_lexicographical_string_of_all_happy_strings.py) |
