@@ -139,6 +139,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy | [3190_minimum_operations_to_make_elements_divisible_by_three.py](./3190_minimum_operations_to_make_elements_divisible_by_three.py) |
 | 3289 | The Two Sneaky Numbers of Digitville | Easy | [3289_the_two_sneaky_numbers_of_digitville.py](./3289_the_two_sneaky_numbers_of_digitville.py) |
 | 3300 | Minimum Element After Replacement With Digit Sum | Easy | [3300_minimum_element_after_replacement_with_digit_sum.py](./3300_minimum_element_after_replacement_with_digit_sum.py) |
+| 3456 | Find Special Substring of Length K | Easy | [3456_find_special_substring_of_length_k.py](./3456_find_special_substring_of_length_k.py) |
 | 3516 | Find Closest Person | Easy | [3516_find_closest_person.py](./3516_find_closest_person.py) |
 | 3751 | Total Waviness of Numbers in Range I | Medium | [3751_total_waviness_of_numbers_in_range_i.py](./3751_total_waviness_of_numbers_in_range_i.py) |
 | 3760 | Maximum Substrings With Distinct Start | Medium | [3760_maximum_substrings_with_distinct_start.py](./3760_maximum_substrings_with_distinct_start.py) |
