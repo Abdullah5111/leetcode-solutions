@@ -31,9 +31,11 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 55 | Jump Game | Medium | [0055_jump_game.py](./0055_jump_game.py) |
 | 56 | Merge Intervals | Medium | [0056_merge_intervals.py](./0056_merge_intervals.py) |
 | 58 | Length of Last Word | Easy | [0058_length_of_last_word.py](./0058_length_of_last_word.py) |
+| 62 | Unique Paths | Medium | [0062_unique_paths.py](./0062_unique_paths.py) |
 | 66 | Plus One | Easy | [0066_plus_one.py](./0066_plus_one.py) |
 | 70 | Climbing Stairs | Easy | [0070_climbing_stairs.py](./0070_climbing_stairs.py) |
 | 74 | Search a 2D Matrix | Medium | [0074_search_a_2d_matrix.py](./0074_search_a_2d_matrix.py) |
+| 79 | Word Search | Medium | [0079_word_search.py](./0079_word_search.py) |
 | 83 | Remove Duplicates from Sorted List | Easy | [0083_remove_duplicates_from_sorted_list.py](./0083_remove_duplicates_from_sorted_list.py) |
 | 88 | Merge Sorted Array | Easy | [0088_merge_sorted_array.py](./0088_merge_sorted_array.py) |
 | 101 | Symmetric Tree | Easy | [0101_symmetric_tree.py](./0101_symmetric_tree.py) |
