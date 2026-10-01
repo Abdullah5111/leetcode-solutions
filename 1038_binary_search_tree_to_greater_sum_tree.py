@@ -4,12 +4,11 @@
 Given the root of a BST, change every node's value to the original
 value plus the sum of all values greater than it.
 
-Approach: collect all values, sort them, and build a map from each
-value to the sum of every value >= it (running sum from the largest).
-Then walk the tree and swap each value for its mapped sum.
+Approach: reverse in-order traversal (right, node, left) visits values
+from largest to smallest, so a running sum is exactly the new value.
 
-Time:  O(n log n)
-Space: O(n)
+Time:  O(n)
+Space: O(h) recursion
 """
 
 from typing import List, Optional
@@ -23,28 +22,19 @@ class TreeNode:
 
 
 class Solution:
-    def collect_values(self, node: Optional[TreeNode]) -> List[int]:
-        if not node:
-            return []
-        return [node.val] + self.collect_values(node.left) + self.collect_values(node.right)
-
-    def replace_values(self, node: Optional[TreeNode], greater_sum: dict) -> None:
-        if not node:
-            return
-        node.val = greater_sum[node.val]
-        self.replace_values(node.left, greater_sum)
-        self.replace_values(node.right, greater_sum)
-
     def bstToGst(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        values = sorted(self.collect_values(root))
-
-        greater_sum = {}
         running = 0
-        for value in reversed(values):
-            running += value
-            greater_sum[value] = running
 
-        self.replace_values(root, greater_sum)
+        def visit(node: Optional[TreeNode]) -> None:
+            nonlocal running
+            if not node:
+                return
+            visit(node.right)
+            running += node.val
+            node.val = running
+            visit(node.left)
+
+        visit(root)
         return root
 
 
