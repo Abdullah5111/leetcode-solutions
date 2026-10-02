@@ -39,7 +39,7 @@ if __name__ == "__main__":
     # 5 -> right 4 is smaller than root
     assert Solution().isValidBST(
         TreeNode(5, TreeNode(1), TreeNode(4, TreeNode(3), TreeNode(6)))) is False
-    # 6 sits in 3's left subtree... but 6 > root 5 — only the bound catches it
+    # 6 is valid under its parent 3 but sits in root 5's left subtree
     assert Solution().isValidBST(
         TreeNode(5, TreeNode(3, None, TreeNode(6)), TreeNode(7))) is False
     assert Solution().isValidBST(TreeNode(2, TreeNode(2))) is False
