@@ -38,6 +38,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 79 | Word Search | Medium | [0079_word_search.py](./0079_word_search.py) |
 | 83 | Remove Duplicates from Sorted List | Easy | [0083_remove_duplicates_from_sorted_list.py](./0083_remove_duplicates_from_sorted_list.py) |
 | 88 | Merge Sorted Array | Easy | [0088_merge_sorted_array.py](./0088_merge_sorted_array.py) |
+| 98 | Validate Binary Search Tree | Medium | [0098_validate_binary_search_tree.py](./0098_validate_binary_search_tree.py) |
 | 101 | Symmetric Tree | Easy | [0101_symmetric_tree.py](./0101_symmetric_tree.py) |
 | 102 | Binary Tree Level Order Traversal | Medium | [0102_binary_tree_level_order_traversal.py](./0102_binary_tree_level_order_traversal.py) |
 | 104 | Maximum Depth of Binary Tree | Easy | [0104_maximum_depth_of_binary_tree.py](./0104_maximum_depth_of_binary_tree.py) |
