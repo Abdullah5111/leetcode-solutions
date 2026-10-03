@@ -61,6 +61,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 189 | Rotate Array | Medium | [0189_rotate_array.py](./0189_rotate_array.py) |
 | 191 | Number of 1 Bits | Easy | [0191_number_of_1_bits.py](./0191_number_of_1_bits.py) |
 | 198 | House Robber | Medium | [0198_house_robber.py](./0198_house_robber.py) |
+| 199 | Binary Tree Right Side View | Medium | [0199_binary_tree_right_side_view.py](./0199_binary_tree_right_side_view.py) |
 | 200 | Number of Islands | Medium | [0200_number_of_islands.py](./0200_number_of_islands.py) |
 | 202 | Happy Number | Easy | [0202_happy_number.py](./0202_happy_number.py) |
 | 205 | Isomorphic Strings | Easy | [0205_isomorphic_strings.py](./0205_isomorphic_strings.py) |
