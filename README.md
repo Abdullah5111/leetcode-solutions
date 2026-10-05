@@ -42,6 +42,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 101 | Symmetric Tree | Easy | [0101_symmetric_tree.py](./0101_symmetric_tree.py) |
 | 102 | Binary Tree Level Order Traversal | Medium | [0102_binary_tree_level_order_traversal.py](./0102_binary_tree_level_order_traversal.py) |
 | 104 | Maximum Depth of Binary Tree | Easy | [0104_maximum_depth_of_binary_tree.py](./0104_maximum_depth_of_binary_tree.py) |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [0105_construct_binary_tree_from_preorder_and_inorder_traversal.py](./0105_construct_binary_tree_from_preorder_and_inorder_traversal.py) |
 | 110 | Balanced Binary Tree | Easy | [0110_balanced_binary_tree.py](./0110_balanced_binary_tree.py) |
 | 112 | Path Sum | Easy | [0112_path_sum.py](./0112_path_sum.py) |
 | 118 | Pascal's Triangle | Easy | [0118_pascals_triangle.py](./0118_pascals_triangle.py) |
