@@ -114,6 +114,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 807 | Max Increase to Keep City Skyline | Medium | [0807_max_increase_keeping_skyline.py](./0807_max_increase_keeping_skyline.py) |
 | 1038 | Binary Search Tree to Greater Sum Tree | Medium | [1038_binary_search_tree_to_greater_sum_tree.py](./1038_binary_search_tree_to_greater_sum_tree.py) |
 | 1108 | Defanging an IP Address | Easy | [1108_defanging_an_ip_address.py](./1108_defanging_an_ip_address.py) |
+| 1315 | Sum of Nodes with Even-Valued Grandparent | Medium | [1315_sum_of_nodes_with_even_valued_grandparent.py](./1315_sum_of_nodes_with_even_valued_grandparent.py) |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [1365_how_many_numbers_are_smaller_than_the_current_number.py](./1365_how_many_numbers_are_smaller_than_the_current_number.py) |
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | [1415_kth_lexicographical_string_of_all_happy_strings.py](./1415_kth_lexicographical_string_of_all_happy_strings.py) |
 | 1431 | Kids With the Greatest Number of Candies | Easy | [1431_kids_with_the_greatest_number_of_candies.py](./1431_kids_with_the_greatest_number_of_candies.py) |
