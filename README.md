@@ -17,6 +17,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 13 | Roman to Integer | Easy | [0013_roman_to_integer.py](./0013_roman_to_integer.py) |
 | 14 | Longest Common Prefix | Easy | [0014_longest_common_prefix.py](./0014_longest_common_prefix.py) |
 | 15 | 3Sum | Medium | [0015_3sum.py](./0015_3sum.py) |
+| 17 | Letter Combinations of a Phone Number | Medium | [0017_letter_combinations_of_a_phone_number.py](./0017_letter_combinations_of_a_phone_number.py) |
 | 20 | Valid Parentheses | Easy | [0020_valid_parentheses.py](./0020_valid_parentheses.py) |
 | 21 | Merge Two Sorted Lists | Easy | [0021_merge_two_sorted_lists.py](./0021_merge_two_sorted_lists.py) |
 | 22 | Generate Parentheses | Medium | [0022_generate_parentheses.py](./0022_generate_parentheses.py) |
@@ -25,6 +26,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 28 | Find the Index of the First Occurrence in a String | Easy | [0028_find_the_index_of_the_first_occurrence_in_a_string.py](./0028_find_the_index_of_the_first_occurrence_in_a_string.py) |
 | 33 | Search in Rotated Sorted Array | Medium | [0033_search_in_rotated_sorted_array.py](./0033_search_in_rotated_sorted_array.py) |
 | 35 | Search Insert Position | Easy | [0035_search_insert_position.py](./0035_search_insert_position.py) |
+| 39 | Combination Sum | Medium | [0039_combination_sum.py](./0039_combination_sum.py) |
 | 42 | Trapping Rain Water | Hard | [0042_trapping_rain_water.py](./0042_trapping_rain_water.py) |
 | 46 | Permutations | Medium | [0046_permutations.py](./0046_permutations.py) |
 | 48 | Rotate Image | Medium | [0048_rotate_image.py](./0048_rotate_image.py) |
@@ -37,6 +39,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 66 | Plus One | Easy | [0066_plus_one.py](./0066_plus_one.py) |
 | 70 | Climbing Stairs | Easy | [0070_climbing_stairs.py](./0070_climbing_stairs.py) |
 | 74 | Search a 2D Matrix | Medium | [0074_search_a_2d_matrix.py](./0074_search_a_2d_matrix.py) |
+| 78 | Subsets | Medium | [0078_subsets.py](./0078_subsets.py) |
 | 79 | Word Search | Medium | [0079_word_search.py](./0079_word_search.py) |
 | 83 | Remove Duplicates from Sorted List | Easy | [0083_remove_duplicates_from_sorted_list.py](./0083_remove_duplicates_from_sorted_list.py) |
 | 88 | Merge Sorted Array | Easy | [0088_merge_sorted_array.py](./0088_merge_sorted_array.py) |
