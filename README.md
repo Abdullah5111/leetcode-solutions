@@ -142,6 +142,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 2660 | Determine the Winner of a Bowling Game | Easy | [2660_determine_the_winner_of_a_bowling_game.py](./2660_determine_the_winner_of_a_bowling_game.py) |
 | 2798 | Number of Employees Who Met the Target | Easy | [2798_number_of_employees_who_met_the_target.py](./2798_number_of_employees_who_met_the_target.py) |
 | 2864 | Maximum Odd Binary Number | Easy | [2864_maximum_odd_binary_number.py](./2864_maximum_odd_binary_number.py) |
+| 2869 | Minimum Operations to Collect Elements | Easy | [2869_minimum_operations_to_collect_elements.py](./2869_minimum_operations_to_collect_elements.py) |
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | [2894_divisible_and_non_divisible_sums_difference.py](./2894_divisible_and_non_divisible_sums_difference.py) |
 | 3131 | Find the Integer Added to Array I | Easy | [3131_find_the_integer_added_to_array_i.py](./3131_find_the_integer_added_to_array_i.py) |
 | 3146 | Permutation Difference between Two Strings | Easy | [3146_permutation_difference_between_two_strings.py](./3146_permutation_difference_between_two_strings.py) |
