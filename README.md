@@ -94,6 +94,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 345 | Reverse Vowels of a String | Easy | [0345_reverse_vowels_of_a_string.py](./0345_reverse_vowels_of_a_string.py) |
 | 347 | Top K Frequent Elements | Medium | [0347_top_k_frequent_elements.py](./0347_top_k_frequent_elements.py) |
 | 349 | Intersection of Two Arrays | Easy | [0349_intersection_of_two_arrays.py](./0349_intersection_of_two_arrays.py) |
+| 374 | Guess Number Higher or Lower | Easy | [0374_guess_number_higher_or_lower.py](./0374_guess_number_higher_or_lower.py) |
 | 378 | Kth Smallest Element in a Sorted Matrix | Medium | [0378_kth_smallest_element_in_a_sorted_matrix.py](./0378_kth_smallest_element_in_a_sorted_matrix.py) |
 | 383 | Ransom Note | Easy | [0383_ransom_note.py](./0383_ransom_note.py) |
 | 387 | First Unique Character in a String | Easy | [0387_first_unique_character_in_a_string.py](./0387_first_unique_character_in_a_string.py) |
