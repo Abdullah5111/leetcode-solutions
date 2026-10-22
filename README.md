@@ -37,6 +37,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 58 | Length of Last Word | Easy | [0058_length_of_last_word.py](./0058_length_of_last_word.py) |
 | 62 | Unique Paths | Medium | [0062_unique_paths.py](./0062_unique_paths.py) |
 | 66 | Plus One | Easy | [0066_plus_one.py](./0066_plus_one.py) |
+| 69 | Sqrt(x) | Easy | [0069_sqrtx.py](./0069_sqrtx.py) |
 | 70 | Climbing Stairs | Easy | [0070_climbing_stairs.py](./0070_climbing_stairs.py) |
 | 74 | Search a 2D Matrix | Medium | [0074_search_a_2d_matrix.py](./0074_search_a_2d_matrix.py) |
 | 78 | Subsets | Medium | [0078_subsets.py](./0078_subsets.py) |
