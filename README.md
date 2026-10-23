@@ -31,6 +31,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 46 | Permutations | Medium | [0046_permutations.py](./0046_permutations.py) |
 | 48 | Rotate Image | Medium | [0048_rotate_image.py](./0048_rotate_image.py) |
 | 49 | Group Anagrams | Medium | [0049_group_anagrams.py](./0049_group_anagrams.py) |
+| 50 | Pow(x, n) | Medium | [0050_powx_n.py](./0050_powx_n.py) |
 | 53 | Maximum Subarray | Medium | [0053_maximum_subarray.py](./0053_maximum_subarray.py) |
 | 55 | Jump Game | Medium | [0055_jump_game.py](./0055_jump_game.py) |
 | 56 | Merge Intervals | Medium | [0056_merge_intervals.py](./0056_merge_intervals.py) |
@@ -117,6 +118,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 744 | Find Smallest Letter Greater Than Target | Easy | [0744_find_smallest_letter_greater_than_target.py](./0744_find_smallest_letter_greater_than_target.py) |
 | 771 | Jewels and Stones | Easy | [0771_jewels_and_stones.py](./0771_jewels_and_stones.py) |
 | 807 | Max Increase to Keep City Skyline | Medium | [0807_max_increase_keeping_skyline.py](./0807_max_increase_keeping_skyline.py) |
+| 973 | K Closest Points to Origin | Medium | [0973_k_closest_points_to_origin.py](./0973_k_closest_points_to_origin.py) |
 | 1038 | Binary Search Tree to Greater Sum Tree | Medium | [1038_binary_search_tree_to_greater_sum_tree.py](./1038_binary_search_tree_to_greater_sum_tree.py) |
 | 1108 | Defanging an IP Address | Easy | [1108_defanging_an_ip_address.py](./1108_defanging_an_ip_address.py) |
 | 1315 | Sum of Nodes with Even-Valued Grandparent | Medium | [1315_sum_of_nodes_with_even_valued_grandparent.py](./1315_sum_of_nodes_with_even_valued_grandparent.py) |
