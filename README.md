@@ -122,6 +122,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 973 | K Closest Points to Origin | Medium | [0973_k_closest_points_to_origin.py](./0973_k_closest_points_to_origin.py) |
 | 1038 | Binary Search Tree to Greater Sum Tree | Medium | [1038_binary_search_tree_to_greater_sum_tree.py](./1038_binary_search_tree_to_greater_sum_tree.py) |
 | 1108 | Defanging an IP Address | Easy | [1108_defanging_an_ip_address.py](./1108_defanging_an_ip_address.py) |
+| 1128 | Number of Equivalent Domino Pairs | Easy | [1128_number_of_equivalent_domino_pairs.py](./1128_number_of_equivalent_domino_pairs.py) |
 | 1315 | Sum of Nodes with Even-Valued Grandparent | Medium | [1315_sum_of_nodes_with_even_valued_grandparent.py](./1315_sum_of_nodes_with_even_valued_grandparent.py) |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [1365_how_many_numbers_are_smaller_than_the_current_number.py](./1365_how_many_numbers_are_smaller_than_the_current_number.py) |
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | [1415_kth_lexicographical_string_of_all_happy_strings.py](./1415_kth_lexicographical_string_of_all_happy_strings.py) |
