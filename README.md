@@ -119,6 +119,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 744 | Find Smallest Letter Greater Than Target | Easy | [0744_find_smallest_letter_greater_than_target.py](./0744_find_smallest_letter_greater_than_target.py) |
 | 771 | Jewels and Stones | Easy | [0771_jewels_and_stones.py](./0771_jewels_and_stones.py) |
 | 807 | Max Increase to Keep City Skyline | Medium | [0807_max_increase_keeping_skyline.py](./0807_max_increase_keeping_skyline.py) |
+| 896 | Monotonic Array | Easy | [0896_monotonic_array.py](./0896_monotonic_array.py) |
 | 973 | K Closest Points to Origin | Medium | [0973_k_closest_points_to_origin.py](./0973_k_closest_points_to_origin.py) |
 | 1038 | Binary Search Tree to Greater Sum Tree | Medium | [1038_binary_search_tree_to_greater_sum_tree.py](./1038_binary_search_tree_to_greater_sum_tree.py) |
 | 1108 | Defanging an IP Address | Easy | [1108_defanging_an_ip_address.py](./1108_defanging_an_ip_address.py) |
