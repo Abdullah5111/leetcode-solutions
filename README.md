@@ -110,6 +110,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 496 | Next Greater Element I | Easy | [0496_next_greater_element_i.py](./0496_next_greater_element_i.py) |
 | 509 | Fibonacci Number | Easy | [0509_fibonacci_number.py](./0509_fibonacci_number.py) |
 | 535 | Encode and Decode TinyURL | Medium | [0535_encode_and_decode_tinyurl.py](./0535_encode_and_decode_tinyurl.py) |
+| 541 | Reverse String II | Easy | [0541_reverse_string_ii.py](./0541_reverse_string_ii.py) |
 | 543 | Diameter of Binary Tree | Easy | [0543_diameter_of_binary_tree.py](./0543_diameter_of_binary_tree.py) |
 | 572 | Subtree of Another Tree | Easy | [0572_subtree_of_another_tree.py](./0572_subtree_of_another_tree.py) |
 | 605 | Can Place Flowers | Easy | [0605_can_place_flowers.py](./0605_can_place_flowers.py) |
