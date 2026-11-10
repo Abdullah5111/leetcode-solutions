@@ -26,6 +26,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 27 | Remove Element | Easy | [0027_remove_element.py](./0027_remove_element.py) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | [0028_find_the_index_of_the_first_occurrence_in_a_string.py](./0028_find_the_index_of_the_first_occurrence_in_a_string.py) |
 | 33 | Search in Rotated Sorted Array | Medium | [0033_search_in_rotated_sorted_array.py](./0033_search_in_rotated_sorted_array.py) |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | [0034_find_first_and_last_position_of_element_in_sorted_array.py](./0034_find_first_and_last_position_of_element_in_sorted_array.py) |
 | 35 | Search Insert Position | Easy | [0035_search_insert_position.py](./0035_search_insert_position.py) |
 | 39 | Combination Sum | Medium | [0039_combination_sum.py](./0039_combination_sum.py) |
 | 42 | Trapping Rain Water | Hard | [0042_trapping_rain_water.py](./0042_trapping_rain_water.py) |
