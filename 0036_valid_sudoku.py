@@ -54,7 +54,7 @@ if __name__ == "__main__":
     assert Solution().isValidSudoku(col_clash) is False
 
     box_clash = [row[:] for row in valid]
-    box_clash[1][1] = "9"  # 9 already in the top-left box only
+    box_clash[2][0] = "3"  # 3 already in the top-left box only
     assert Solution().isValidSudoku(box_clash) is False
 
     assert Solution().isValidSudoku([["."] * 9 for _ in range(9)]) is True
