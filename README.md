@@ -45,6 +45,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 69 | Sqrt(x) | Easy | [0069_sqrtx.py](./0069_sqrtx.py) |
 | 70 | Climbing Stairs | Easy | [0070_climbing_stairs.py](./0070_climbing_stairs.py) |
 | 74 | Search a 2D Matrix | Medium | [0074_search_a_2d_matrix.py](./0074_search_a_2d_matrix.py) |
+| 75 | Sort Colors | Medium | [0075_sort_colors.py](./0075_sort_colors.py) |
 | 78 | Subsets | Medium | [0078_subsets.py](./0078_subsets.py) |
 | 79 | Word Search | Medium | [0079_word_search.py](./0079_word_search.py) |
 | 83 | Remove Duplicates from Sorted List | Easy | [0083_remove_duplicates_from_sorted_list.py](./0083_remove_duplicates_from_sorted_list.py) |
