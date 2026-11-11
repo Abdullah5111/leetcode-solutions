@@ -19,6 +19,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 14 | Longest Common Prefix | Easy | [0014_longest_common_prefix.py](./0014_longest_common_prefix.py) |
 | 15 | 3Sum | Medium | [0015_3sum.py](./0015_3sum.py) |
 | 17 | Letter Combinations of a Phone Number | Medium | [0017_letter_combinations_of_a_phone_number.py](./0017_letter_combinations_of_a_phone_number.py) |
+| 19 | Remove Nth Node From End of List | Medium | [0019_remove_nth_node_from_end_of_list.py](./0019_remove_nth_node_from_end_of_list.py) |
 | 20 | Valid Parentheses | Easy | [0020_valid_parentheses.py](./0020_valid_parentheses.py) |
 | 21 | Merge Two Sorted Lists | Easy | [0021_merge_two_sorted_lists.py](./0021_merge_two_sorted_lists.py) |
 | 22 | Generate Parentheses | Medium | [0022_generate_parentheses.py](./0022_generate_parentheses.py) |
