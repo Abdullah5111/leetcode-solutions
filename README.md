@@ -29,6 +29,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 33 | Search in Rotated Sorted Array | Medium | [0033_search_in_rotated_sorted_array.py](./0033_search_in_rotated_sorted_array.py) |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | [0034_find_first_and_last_position_of_element_in_sorted_array.py](./0034_find_first_and_last_position_of_element_in_sorted_array.py) |
 | 35 | Search Insert Position | Easy | [0035_search_insert_position.py](./0035_search_insert_position.py) |
+| 36 | Valid Sudoku | Medium | [0036_valid_sudoku.py](./0036_valid_sudoku.py) |
 | 39 | Combination Sum | Medium | [0039_combination_sum.py](./0039_combination_sum.py) |
 | 42 | Trapping Rain Water | Hard | [0042_trapping_rain_water.py](./0042_trapping_rain_water.py) |
 | 46 | Permutations | Medium | [0046_permutations.py](./0046_permutations.py) |
