@@ -37,6 +37,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 49 | Group Anagrams | Medium | [0049_group_anagrams.py](./0049_group_anagrams.py) |
 | 50 | Pow(x, n) | Medium | [0050_powx_n.py](./0050_powx_n.py) |
 | 53 | Maximum Subarray | Medium | [0053_maximum_subarray.py](./0053_maximum_subarray.py) |
+| 54 | Spiral Matrix | Medium | [0054_spiral_matrix.py](./0054_spiral_matrix.py) |
 | 55 | Jump Game | Medium | [0055_jump_game.py](./0055_jump_game.py) |
 | 56 | Merge Intervals | Medium | [0056_merge_intervals.py](./0056_merge_intervals.py) |
 | 58 | Length of Last Word | Easy | [0058_length_of_last_word.py](./0058_length_of_last_word.py) |
