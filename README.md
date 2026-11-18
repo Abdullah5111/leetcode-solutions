@@ -42,6 +42,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 56 | Merge Intervals | Medium | [0056_merge_intervals.py](./0056_merge_intervals.py) |
 | 58 | Length of Last Word | Easy | [0058_length_of_last_word.py](./0058_length_of_last_word.py) |
 | 62 | Unique Paths | Medium | [0062_unique_paths.py](./0062_unique_paths.py) |
+| 64 | Minimum Path Sum | Medium | [0064_minimum_path_sum.py](./0064_minimum_path_sum.py) |
 | 66 | Plus One | Easy | [0066_plus_one.py](./0066_plus_one.py) |
 | 69 | Sqrt(x) | Easy | [0069_sqrtx.py](./0069_sqrtx.py) |
 | 70 | Climbing Stairs | Easy | [0070_climbing_stairs.py](./0070_climbing_stairs.py) |
