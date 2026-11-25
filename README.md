@@ -73,6 +73,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 152 | Maximum Product Subarray | Medium | [0152_maximum_product_subarray.py](./0152_maximum_product_subarray.py) |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | [0153_find_minimum_in_rotated_sorted_array.py](./0153_find_minimum_in_rotated_sorted_array.py) |
 | 160 | Intersection of Two Linked Lists | Easy | [0160_intersection_of_two_linked_lists.py](./0160_intersection_of_two_linked_lists.py) |
+| 167 | Two Sum II - Input Array Is Sorted | Medium | [0167_two_sum_ii_input_array_is_sorted.py](./0167_two_sum_ii_input_array_is_sorted.py) |
 | 169 | Majority Element | Easy | [0169_majority_element.py](./0169_majority_element.py) |
 | 171 | Excel Sheet Column Number | Easy | [0171_excel_sheet_column_number.py](./0171_excel_sheet_column_number.py) |
 | 189 | Rotate Array | Medium | [0189_rotate_array.py](./0189_rotate_array.py) |
