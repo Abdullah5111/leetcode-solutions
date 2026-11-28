@@ -89,6 +89,7 @@ Each file is named `<4-digit-problem-number>_<snake_case_title>.py` and contains
 | 217 | Contains Duplicate | Easy | [0217_contains_duplicate.py](./0217_contains_duplicate.py) |
 | 226 | Invert Binary Tree | Easy | [0226_invert_binary_tree.py](./0226_invert_binary_tree.py) |
 | 228 | Summary Ranges | Easy | [0228_summary_ranges.py](./0228_summary_ranges.py) |
+| 230 | Kth Smallest Element in a BST | Medium | [0230_kth_smallest_element_in_a_bst.py](./0230_kth_smallest_element_in_a_bst.py) |
 | 231 | Power of Two | Easy | [0231_power_of_two.py](./0231_power_of_two.py) |
 | 234 | Palindrome Linked List | Easy | [0234_palindrome_linked_list.py](./0234_palindrome_linked_list.py) |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | [0235_lowest_common_ancestor_of_a_binary_search_tree.py](./0235_lowest_common_ancestor_of_a_binary_search_tree.py) |
